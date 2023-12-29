@@ -17,3 +17,6 @@
 
 ### `Johnella Kyle San Juan`
 * `mczvc` `jksj`
+
+## Licensing, Patent, Permission
+[Licensee](./LICENSE)
