@@ -258,8 +258,8 @@ Bayanihan Software is subsidiary and trademark of parent company, **Egg Co.**, t
 ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
 - All are under **Vanguard Licensing** ℠
-- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using Eclipse license format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that if you are to minimize the cost of training, hiring trainers, engineers, maintainers, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
-- Licensing and Copyright preservation uses **Standard Software Licensing** for granting under the preferred license provider, all are under in public or private manner, and distribution of source, and/or software(s).
+- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using Eclipse license format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
+- Licensing and Copyright preservation uses **Standard Software Licensing** for granting permission, under your preferred license provider, in public or private manner, to distribute the source and/or software(s).
 - Patenting is encouraged to do *under* [Goldstein Patent Law], which states:
 
 ```
@@ -270,10 +270,10 @@ Your patent is an investment that drives the long-term value of your business.
 - [Business Method can be patented]
 
 ## Bayanihan OS, and Picosoft℠
-Is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, as will be a derivative work, planned ahead, to renew the Apple and its *Ecosystem* of Phone Manufacturing, for especialized devices.
+`Bayanihan OS` is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, will be done as a derivative work of existing and available technologies, its architecture and look is planned ahead, to renew the look and feel of latest *Apple* `iPhone` and its *Ecosystem* and innovate the Manufacturing Process, to produce a desired, especialized devices.
 
-- **Picosoft℠** ecosystem is a *premium* but excellent machines and devices, architected and perfected with the **Grace of Almighty God**.
-- The natural tendency to perfect these technology, is by the **Excellent Unification of Almighty God**, to **Trust His Guidance**, and **Do His Will**. There's no more secret to Perfection, but *with* **Almighty God**: we can all do all things through **His Son's Name**, with **His Holy's Spirit**, **His Guidance**, and *with* **His Knowledge**. `God` is **True** and **Pure**! We are now building the *Ultimate Community*, **He** to Help and Guide for the Education, Training, and **Mastering His Perfect Will**. He to Choose, Call, and with His Grace, Who'd Organized, and **Blesses** with `Everything`, that comes from **Him**. 
+- **Picosoft℠** and its Ecosystem is a *premium* but excellent machines and devices and Software Systems, and a SmartPhone under the brand `PS℠`, architected and perfected with the **Grace of Almighty God**.
+- The natural tendency to perfect these technology is all by the **Excellent Unification of Almighty God**, to **Trust His Guidance**, and **Do His Will**. There's no more secret to Perfection, but *with* **Almighty God**: we can all do all things through **His Son's Name**, with **His Holy's Spirit**, **His Guidance**, and *with* **His Knowledge**. `God` is **True** and **Pure**! We are now building the *Ultimate Community*, **He** to Help and Guide for the Education, Training, and **Mastering His Perfect Will**. He to Choose, Call, and with His Grace, Who'd Organized, and **Blesses** Us with `Everything` that comes from **Him**. 
 - *Sounds* **Utopian Socialist**, *right*? ;)
 - All profits will proceed to the [FYM Foundation]; and
 - The ROI of ₱1 will be **forever sufficient** to support our cause, All for the Praise and Glory to the Almighty, and to our Lord's name, Jesus Christ.
