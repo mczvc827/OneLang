@@ -97,37 +97,37 @@ to David your father.
 ```
 
 # We are all members of `The Lifesaving Society`, `St. John`;
-## Emergency Medical Services, Calgary Lifeguards, Calgary Sun;
-## Commonwealth Royal Life Saving Society and the International Life Saving Federation;
-## Canada's National Lifeguards.
+## `Emergency Medical Services`, `Calgary Lifeguards`, `Calgary Sun`;
+## `Commonwealth Royal Life Saving Society` and the `International Life Saving Federation`;
+## `Canada’s National Lifeguards`.
 
-- The Society is a national, volunteer organization and registered charity.
-- The Society's national office is in Ottawa. 
+- `The Society` is a national, volunteer organization and registered charity.
+- `The Society`’s national office is in Ottawa. 
 
 ### Program Education 
-- Program education refers to the formal training in swimming, lifesaving, lifeguarding and leadership provided by the Society. The Society reviews and revises its programs on a regular basis. 
-- The programs of the Society are offered through the Society's affiliate members. Affiliate members include the pools and waterfronts of municipal recreation departments, local YMCA — YWCAs, youth camps, private programs, and the athletic facilities of schools, colleges, and universities. Over 1,000,000 Canadians are trained and certified every year in the Society's programs.
+- Program education refers to the formal training in swimming, lifesaving, lifeguarding and leadership provided by the Society. `The Society` reviews and revises its programs on a regular basis. 
+- The programs of the **Society** are offered through the **Society**’s affiliate members. Affiliate members include the pools and waterfronts of municipal recreation departments, local **YMCA** — **YWCA**s, youth camps, private programs, and the athletic facilities of schools, colleges, and universities. Over `1,000,000` **Canadians** are trained and certified every year in the **Society**’s programs.
 
 ### Public Education 
-- Public education refers to the Society's efforts to ensure that all Canadians are "Water Smart."  
+- Public education refers to the **Society**’s efforts to ensure that all **Canadians** are **"Water Smart."**  
 
 ### Partnerships 
 The Society works in co-operation and consultation with national, provincial, regional, and community agencies, governments, and organizations in the areas of prevention, education, safe safety. 
 
 ### Consultation 
-The Society provides advice to education, recreation, health, and government agencies that oversee aquatic recreation in Canada. In addition, Society representatives act as expert witnesses at coroner's inquests and in court cases.
+`The Society` provides advice to education, recreation, health, and government agencies that oversee aquatic recreation in `Canada`. In addition, **Society** representatives act as expert witnesses at coroner’s inquests and in court cases.
 
 # Subsidiaries under Egg Co.
-## Egg Co., `Meldencio Czarlemagne`
+## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
 ### - [CV]
 ### - [Resume]
 ### HQs: 4-CAs
-- 2 in the Philippines,
-- 1 in Central America, and
-- 1 in Canada
+- 2 in the `Philippines`,
+- 1 in `Central America`, and
+- 1 in `Canada`
 
-## `Vanguard™` `Consortium` — `Phi` `Chi` `Alpha` — `Epsilon` `Sigma`, Pico-Veras-Corrales
+## `Vanguard™` `Consortium` — `Phi` `Chi` `Alpha` — `Epsilon` `Sigma`, **Pico-Veras-Corrales**
 ### _Vanguard_ leads a Bayanihan Learning, a partner and Forever Dear for every Eranians.
 - **Vanguard** is a _western_ term for **Angel** (Fem. `Angelou`, Masc. `Angelo`).
 - A full-arm or a mastery of professionalism, a ready professionals, probably an Allied Health Professional, aimed and tenured with secured practices, to educate, and/or mobilized, and eventually liberate the people of education, to be prepared to serve the Almighty God, an endeavored professionals, united in serving Him faithfully and wholeheartedly.
@@ -166,15 +166,17 @@ That you shall break his yoke from your neck.”
 [New English Translation]
 
 ```
-You will live by your sword but you will serve your brother. 
-When you grow restless, you will tear off his yoke from your neck.”
+You will live by your sword 
+but you will serve your brother. 
+When you grow restless, you will 
+tear off his yoke from your neck.”
 ```
 
-- Pico: Engineering and Architectural Firm
-- Veras, LLC: Law Firm under Bar #117571, U.S. District Court, Southern District of [Florida]
-- MC (PAF & RAF) Security Services &  Consultancy
-- Corrales: a **Blue Ocean** Institute, headquartered in 3-CAs
-- **mczvc** is an Institute, offering Software Architecture, Engineering and Technology, especializing for Fitness Equipments and Medical Devices, and Revolutionized the Cybersecurity; in partnership with Accenture, MIT, Department of Homeland Security, and Allied Health, respectively) and a School for Business and Management, specialized from Harvard Business School
+- **Pico**: Engineering and Architectural Firm
+- **Veras, LLC**: Law Firm under Bar #117571, U.S. District Court, Southern District of [Florida]
+- **MC `PAF & RAF`** Security Services & Consultancy
+- **Corrales**: a **Blue Ocean** Institute, headquartered in 3-CAs
+- **mczvc** is an Institute, offering `Software Architecture`, `Engineering and Technology`, especializing for **Fitness Equipments and Medical Devices**, and Revolutionized the **Cybersecurity**; in partnership with `Accenture`, `MIT`, `Department of Homeland Security`, and `Allied Health`, respectively) and a **School for Business and Management**, specialized from `Harvard Business School`
 
 # Bayanihan Foundation ℠
 ## _(Bayan Ni Juan)_ 
@@ -217,7 +219,7 @@ With our Instute and partners, you do now have the power of the True Royal Degre
 
 It's time to learn, apply, and lead courageously and victoriously, or work collaboratively, with the honor of excellency on every aspect of your career!
 
-We had also revolutionized the Management Aspect of Every Known Career(s), not just for managing, but for the growth and development of _**every** team_. Leading your new way to the paved industries since the last Industrial Revolution. Because we had an Awesome God, which was the Almighty One Who guides us to every deal of technologies, made by subversive man! We are all created equal, but revolutionaries! 🇵🇭🕍🇮🇹
+We had also revolutionized the Management Aspect of Every Known Career(s), not just for managing, but for the growth and development of _**every** team_. Leading your new way to the paved industries since the last `Industrial Revolution`. Because we had an Awesome God, which was the Almighty One Who guides us to every deal of technologies, made by subversive man! We are all created equal, but revolutionaries! 🇵🇭🕍🇮🇹
 
 [1 Timothy 1:17, New Living Translation]
 
@@ -229,14 +231,14 @@ he alone is God. Amen.
 ```
 
 ### We are `Almighty God’s People`, focused on `People Helping People`
-Aside from revolutionizing the HR workforce, picked the best Economical Systems for a certain economical problem, as a solution, we had made models for business (consumers, producers), financing, managing (the people — inside and outside: the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness and productiveness, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the Excellent Engineers and Prime Architects — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the Royal Developers and Agile HR, to manage the project, prime to its People!
-We are a Royal Club of every Professionals, to do the work, because we value the People, but we value more our Family, and mostly, our One True God, above all, in serving one right.
+Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem, as a solution, we had made models for business (consumers, producers), financing, managing (the people — inside and outside: the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness and productiveness, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the Excellent Engineers and Prime Architects — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the Royal Developers and Agile HR, to manage the project, prime to its People!
+We are a `Royal Club of every Professionals`, to do the work, because we value the People, but we value more our Family, and mostly, our One True God, above all, in serving one right.
 
 # `Royal Club`™ Machines, Equipments, and Technology
 We are the Next Silicon Valley! A Century and a Score Four! Because we love Tacos and Waffles!
 
 - For business, an MBA devices (not just machines) would suffice!
-- For Medical Devices, we are now _Uprising with the Tron_℠ — [we do not delay] — revolutionizing the security and safety, and the New Tele-health, of Medical equipments and devices.
+- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — revolutionizing the security and safety, and the New Tele-health, of Medical equipments and devices.
 - A Century and Score, we are now in the field of Digital Electronics, Medical frontier of non-invasive surgeries, and mobility — fitness and wellness of everyone!
 - We Are Bayanihan!
 
@@ -326,6 +328,6 @@ let Us all unite for one Cause`
 
 [Business Method can be patented]: https://en.m.wikipedia.org/wiki/Business_method_patent
 
-# Welcome to the Revolutionary Club!
+# Welcome to the `Revolutionary Club`!
 
-### Egg Co. Club, Egg Hub `(C)` 2023, 2024, All Rights Reserved
+### Egg Co. Club, Egg Hub `(C)` 2023, 2024, **All Rights Reserved**
