@@ -7,7 +7,8 @@
 ### Company Websites
 `Canada.us` `Dads.net` `Bayanihan.Learning` `Network.Careers` `Egg.co`
 
-`mczvc`: `[Meldencio Czarlemagne Corrales]` [Egg Co. — One Learning]
+`mczvc`: `[Meldencio Czarlemagne Corrales]` [Egg Co.]
+- [Bayanihan Learning](#bayanihan-learning-and-college) — One Language, One Learning, *at a time*.
 
 ## Partners in Business
 ### `Ryan` and `Gem Noces`
@@ -21,11 +22,12 @@
 ## Licensing, Patent, Permission
 [Licensee](./LICENSE)
 
-Branch name: Subsidiaries [ps]
+# Trademarks Registered
+
 # we are all members of the `Church Of Christ` or `Iglesia Ni Cristo`
 ## Changing lives through `God`’s Words.
 ### We are encouraging you:
-for a nearest or inside His `House` or `Church Worship Services`, because this is the **Truth** and the **Greatest Membership** you will ever receive. We will be saved, come the day of `Judgement`.
+to a nearest or inside `His House` and `Church` for a `Worship Services`, because this is the **Truth**, **The Kingdom** we seek, and the **Greatest Membership** you will ever receive. Through *it* We will be saved, come the day of `Judgement`.
 - (Genesis 12:[1-2])
 
 ```
@@ -97,13 +99,14 @@ then I will carry out My word with you which I spoke
 to David your father.
 ```
 
-# We are all members of `The Lifesaving Society`, `St. John`;
+# We are all members of
+## `The Lifesaving Society`, `St. John`;
 ## `Emergency Medical Services`, `Calgary Lifeguards`, `Calgary Sun`;
 ## `Commonwealth Royal Life Saving Society` and the `International Life Saving Federation`;
 ## `Canada’s National Lifeguards`.
 
 - `The Society` is a national, volunteer organization and registered charity.
-- `The Society`’s national office is in Ottawa. 
+- `The Society`’s national office is in `Ottawa`. 
 
 ### Program Education 
 - Program education refers to the formal training in swimming, lifesaving, lifeguarding and leadership provided by the Society. `The Society` reviews and revises its programs on a regular basis. 
@@ -129,9 +132,10 @@ The Society works in co-operation and consultation with national, provincial, re
 - 1 in `Canada`
 
 ## `Vanguard™` `Consortium` — `Phi` `Chi` `Alpha` — `Epsilon` `Sigma`, **Pico-Veras-Corrales**
-### _Vanguard_ leads a `Bayanihan Learning`, a partner and **Forever Dear** for every **Eranian**s.
+_Vanguard_ leads a `Bayanihan Learning`, a partner and **Forever Dear** for every **Eranian**s.
+
 - **Vanguard** is a _western_ term for **Angel** (Fem. `Angelou`, Masc. `Angelo`).
-- A full-arm or a mastery of professionalism, a ready professionals, probably an `Allied Health Professional`, aimed and tenured with secured practices, to educate, and/or mobilized, and eventually liberate the people of education, to be prepared to serve the **Almighty God**, an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
+- A full-arm or a mastery of professionalism, a ready professionals, probably an `Allied Health Professional`, aimed and tenured with secured practices, to educate, and/or mobilize, and eventually liberate the people of education, to be prepared to serve the **Almighty God**, an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
 
 ## `Vanguard` — `Sigma` `Epsilon`, `Sigma` `Alpha`
 - Is a **Software Engineers** and **Software Architects** that is also a `CBI` or `Christian Brotherhood International`
@@ -216,12 +220,13 @@ she will bestow a beautiful crown on you.”
 
 Branch name: Network Careers — A value-based work, network and platform for careers [nc]
 # Network.Careers
-A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by hourly rate) of a worker or employee, that still occupies _their_ time and obligates to work only on one job or project at a time; by (or with) a motto: [**A**]lways [**S**]uceeding ™ — with this, we are empowering the _freelanc-ing mindset_ before it was revolutionized.
-With our Instute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work endlessly, one Work or One Project at a time, equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
+A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by hourly rate) of a worker or employee, that still occupies _their_ time and obligates to work only on one job or project at a time; by (or with) a motto: 
+[**A**]lways [**S**]uceeding ™ — with this, we are **empowering** the _freelanc-ing mindset_ before it was revolutionized.
+With our Instute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work endlessly, thus earning endlessly — or one Work or One Project at a time, thus saving effort and *probably* time, preserving and upskilling your value, but now equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
 
 It's time to learn, apply, and lead courageously and victoriously, or work collaboratively, with the **honor of excellency** on every aspect of your career!
 
-We had also revolutionized the Management Aspect of Every Known Career(s), not just for managing, but for the growth and development of _**every** team_. Leading your new way to the paved industries since the last `Industrial Revolution`. Because we had an Awesome God, which was the Almighty One Who guides us to every deal of technologies, made by subversive man! We are all created equal, but revolutionaries! 🇵🇭🕍🇮🇹
+We had also revolutionized the **Management Aspect** of *Every Known Career*(s), not just for managing, but for the growth and development of _**every** team_. Leading your new way to the paved industries since the last `Industrial Revolution` aka “The Intelligence Revolution”. Because we had an Awesome God, which was the Almighty One, Who guides us to every deal of technologies, made by subversive man! We are all created equal, but revolutionaries! 🇵🇭🕍🇮🇹
 
 [1 Timothy 1:17, New Living Translation]
 
@@ -233,27 +238,28 @@ he alone is God. Amen.
 ```
 
 ### We are `Almighty God’s People`, focused on `People Helping People`
-Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem, as a solution, we had made models for business (consumers, producers), financing, managing (the people — inside and outside: the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness and productiveness, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the Excellent Engineers and Prime Architects — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the Royal Developers and Agile HR, to manage the project, prime to its People!
-We are a `Royal Club of every Professionals`, to do the work, because we value the People, but we value more our Family, and mostly, our One True God, above all, in serving one right.
+Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem, as a solution, we had made models for business (consumers, producers), financing, managing (the people — inside and outside: the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness and productiveness, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the Excellent Engineers and Prime Architects — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the **Royal Developers** and **Agile HR**, to manage the project, prime to its People!
+We are a `Royal Club of every Professionals`, to do the work, because we value the **People**, but we value more our **Family**, and mostly, our **One True God**, above all, in serving one right.
 
 # `Royal Club`™ Machines, Equipments, and Technology
-We are the Next Silicon Valley! A Century and a Score Four! Because we love Tacos and Waffles!
+We are the *Next* Silicon Valley! A Century and a Score Four! Because we love Tacos and Waffles!
 
-- For business, an MBA devices (not just machines) would suffice!
-- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — revolutionizing the security and safety, and the New Tele-health, of Medical equipments and devices.
-- A Century and Score, we are now in the field of Digital Electronics, Medical frontier of non-invasive surgeries, and mobility — fitness and wellness of everyone!
+- For business, an MBA devices (not just machines) as *technological* tool would suffice!
+- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — revolutionizing the security and safety, and the *New* Tele-health, of Medical equipments and devices.
+- A Century and Score, we are now in the field of Digital Electronics, Medical frontier of *non-invasive procedures*, and mobility — fitness and wellness of everyone!
 - We Are Bayanihan!
 
 # Bayanihan Software
-Bayanihan Software is subsidiary and trademark of parent company, Egg Co., developed, maintained, and, only, reserved, for now, for the following:
+Bayanihan Software is subsidiary and trademark of parent company, **Egg Co.**, to develop, maintain, and is only reserved, for now, for the following:
 
 1. Medical Technology software, and
-2. Business Software Tools or Platforms
+2. Business Software of Tools or Platforms
 
 ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
 - All are under **Vanguard Licensing** ℠
-- Licensing and Copyright preservation uses **Standard Software Licensing** for granting under the preferred licensing provider, all under in public or private manner, of software(s).
+- Patented Open-Source Software is a hybrid of patenting and limited liable distribution of Eclipse license format, for you entwine in the same, or minimally differ, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that if you are to minimize the cost of training, hiring trainers, engineers, maintainers, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
+- Licensing and Copyright preservation uses **Standard Software Licensing** for granting under the preferred license provider, all are under in public or private manner, and distribution of source, and/or software(s).
 - Patenting is encouraged to do *under* [Goldstein Patent Law], which states:
 
 ```
