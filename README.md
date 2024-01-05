@@ -85,7 +85,7 @@ to the glory and praise of God.
 
 # Central Temple
 
-[![12 Jun. 2018](./IMG_20221205_140310_753)](https://www.instagram.com/p/ClxocDFBepY/)
+[![Central Temple on 12 Jun. 2018](./IMG_20221205_140310_753.jpg)](https://www.instagram.com/p/ClxocDFBepY/)
 ## (1 King 6:12)
 
 ```
@@ -118,8 +118,8 @@ The Society works in co-operation and consultation with national, provincial, re
 The Society provides advice to education, recreation, health, and government agencies that oversee aquatic recreation in Canada. In addition, Society representatives act as expert witnesses at coroner's inquests and in court cases.
 
 # Subsidiaries under Egg Co.
-## Egg Co.; Meldencio Czarlemagne
-### CEO and Founder
+## Egg Co., `Meldencio Czarlemagne`
+### `CEO` and `Founder`
 ### - [CV]
 ### - [Resume]
 ### HQs: 4-CAs
