@@ -11,8 +11,8 @@
 
 ## Partners in Business
 ### `Ryan` and `Gem Noces`
-* Vergie's Restaurant
-* DAD's Gym
+* Vergie’s Restaurant
+* DAD’s Gym
 * ...
 
 ### `Johnella Kyle San Juan`
@@ -24,7 +24,8 @@
 Branch name: Subsidiaries [ps]
 # we are all members of the `Church Of Christ` or `Iglesia Ni Cristo`
 ## Changing lives through `God`’s Words.
-### We are encouraging you for a nearest or inside His `House` or _Church_ Worship Services, because this is the Truth and the Greatest Membership you will ever receive. We will be saved, come the day of `Judgement`.
+### We are encouraging you:
+for a nearest or inside His `House` or `Church Worship Services`, because this is the **Truth** and the **Greatest Membership** you will ever receive. We will be saved, come the day of `Judgement`.
 - (Genesis 12:[1-2])
 
 ```
@@ -128,9 +129,9 @@ The Society works in co-operation and consultation with national, provincial, re
 - 1 in `Canada`
 
 ## `Vanguard™` `Consortium` — `Phi` `Chi` `Alpha` — `Epsilon` `Sigma`, **Pico-Veras-Corrales**
-### _Vanguard_ leads a Bayanihan Learning, a partner and Forever Dear for every Eranians.
+### _Vanguard_ leads a `Bayanihan Learning`, a partner and **Forever Dear** for every **Eranian**s.
 - **Vanguard** is a _western_ term for **Angel** (Fem. `Angelou`, Masc. `Angelo`).
-- A full-arm or a mastery of professionalism, a ready professionals, probably an Allied Health Professional, aimed and tenured with secured practices, to educate, and/or mobilized, and eventually liberate the people of education, to be prepared to serve the Almighty God, an endeavored professionals, united in serving Him faithfully and wholeheartedly.
+- A full-arm or a mastery of professionalism, a ready professionals, probably an `Allied Health Professional`, aimed and tenured with secured practices, to educate, and/or mobilized, and eventually liberate the people of education, to be prepared to serve the **Almighty God**, an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
 
 ## `Vanguard` — `Sigma` `Epsilon`, `Sigma` `Alpha`
 - Is a **Software Engineers** and **Software Architects** that is also a `CBI` or `Christian Brotherhood International`
@@ -144,7 +145,8 @@ Then the LORD said to Moses,
 ‘Thus says the LORD, 
 “Let My people go, that they may serve Me. 
 
-“But if you refuse to let them go, behold, I will smite your whole territory with frogs.
+“But if you refuse to let them go, behold, 
+I will smite your whole territory with frogs.
 ```
 
 ### _Royal Filipinos_ are **Reservist Frogmen**
@@ -173,24 +175,24 @@ tear off his yoke from your neck.”
 ```
 
 - **Pico**: Engineering and Architectural Firm
-- **Veras, LLC**: Law Firm under Bar #117571, U.S. District Court, Southern District of [Florida]
+- **Veras, LLC**: Law Firm under **Bar** #`117571`, U.S. District Court, Southern District of [Florida]
 - **MC `PAF & RAF`** Security Services & Consultancy
 - **Corrales**: a **Blue Ocean** Institute, headquartered in 3-CAs
-- **mczvc** is an Institute, offering `Software Architecture`, `Engineering and Technology`, especializing for **Fitness Equipments and Medical Devices**, and Revolutionized the **Cybersecurity**; in partnership with `Accenture`, `MIT`, `Department of Homeland Security`, and `Allied Health`, respectively) and a **School for Business and Management**, specialized from `Harvard Business School`
+- **mczvc** is an Institute, offering `Software Architecture`, `Engineering and Technology`, especializing for **Fitness Equipments and Medical Devices**, and Revolutionized the **Cybersecurity**; in partnership with `Accenture`, `MIT`, `Department of Homeland Security`, and `Allied Health`, *respectively*) and a **School for Business and Management**, specialized from `Harvard Business School`
 
 # Bayanihan Foundation ℠
 ## _(Bayan Ni Juan)_ 
-Bayanihan Foundation is a collaboration of the following foundations: MC, JK, RG, GB, Roberto Sr., CJ, CA; PC-SJ-NC-VB-DD-DC-GP-GC Groups, and **mczvc** Institute, all under in One Name.
+`Bayanihan Foundation` is a collaboration of the following foundations: MC, JK, RG, GB, Roberto Sr., CJ, CA; PC-SJ-NC-VB-DD-DC-GP-GC Groups, and **mczvc** Institute, all under in One Name.
 
 # INC Giving
 ![image](https://github.com/mczvc-biomew/OneLang/assets/98096247/c05331f1-3580-46b2-9801-9bf781423f36)
 
 # Bayanihan Learning and College
-- ₱1 forever tuition! No hidden charge(s). Transparent and flat rate for all Filipino(s). A two-semester college education.
-- ☪️ Shari`ah-Compliant
+- ₱1 forever tuition! No hidden charge(s). Transparent and flat rate for all `Filipino`(s). A two-semester college education.
+- ☪️ Shari’ah-Compliant
 - Decentralized Learning
-- All alums (alumnus and alumnae) will be called United Alumnus Royals, all are Dear to Everyone!
-- A much higher body of commission on education will be needed in the future to guarantee and protect academic freedom for continuing intellectual growth, advancement of learning and research, development for responsible and effective leadership, education of high level professionals, and enrichment of historical and cultural heritages. This is not to disrupt every (body or) commission that regulates the higher education, but to honor and preserve the dignity of every professional educators, through different and separate model of recompensation, a system that is guaranteed to liberate everyone in a balanced and stable ecosystem of education financing through the continuous effort and evaluation of every members of the committee. Learning will never be fun! nor continuous; Nor prosperous! Are you dreaming of all of these three, abudantly? Remember: Everything is possible with the Almighty! And all of Good things comes from God! Abudantly. Always and Forever.
+- All alums (alumnus and alumnae) will be called **United Alumnus Royals**, all are Dear to Everyone!
+- A much higher body of commission on education will be needed in the future to guarantee and protect academic freedom for continuing intellectual growth, advancement of learning and research, development for responsible and effective leadership, education of high level professionals, and enrichment of historical and cultural heritages. This is not to disrupt every (body or) commission that regulates the higher education, but to honor and preserve the dignity of every professional educators, through different and separate model of recompensation, a system that is guaranteed to liberate everyone in a balanced and stable ecosystem of education financing through the continuous effort and evaluation of every members of the committee. Learning will never be fun! nor continuous; Nor prosperous! Are you dreaming of all of these three, abudantly? `Remember`: *Everything* is **possible** with the **Almighty**! And all of Good things comes from **God**! Abudantly. **Always** and **Forever**.
 - We value these 6-major-character competencies to everyone: effort, value, skills, knowledge, wisdom, and abilities.
 
 ### [‭‭Proverbs‬ ‭4:5‭-‬9‬, ‭NET‬‬]
@@ -215,9 +217,9 @@ she will bestow a beautiful crown on you.”
 Branch name: Network Careers — A value-based work, network and platform for careers [nc]
 # Network.Careers
 A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by hourly rate) of a worker or employee, that still occupies _their_ time and obligates to work only on one job or project at a time; by (or with) a motto: [**A**]lways [**S**]uceeding ™ — with this, we are empowering the _freelanc-ing mindset_ before it was revolutionized.
-With our Instute and partners, you do now have the power of the True Royal Degree to communicate and network with the Royal Professionals — to work endlessly, one Work or One Project at a time, equipped with your acquired values + your honed God-Given Gift from the Almighty One!
+With our Instute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work endlessly, one Work or One Project at a time, equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
 
-It's time to learn, apply, and lead courageously and victoriously, or work collaboratively, with the honor of excellency on every aspect of your career!
+It's time to learn, apply, and lead courageously and victoriously, or work collaboratively, with the **honor of excellency** on every aspect of your career!
 
 We had also revolutionized the Management Aspect of Every Known Career(s), not just for managing, but for the growth and development of _**every** team_. Leading your new way to the paved industries since the last `Industrial Revolution`. Because we had an Awesome God, which was the Almighty One Who guides us to every deal of technologies, made by subversive man! We are all created equal, but revolutionaries! 🇵🇭🕍🇮🇹
 
@@ -250,9 +252,9 @@ Bayanihan Software is subsidiary and trademark of parent company, Egg Co., devel
 
 ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
-- All are under Vanguard Licensing℠
-- Licensing and Copyright preservation uses Standard Software Licensing for granting under the preferred licensing provider, all under in public or private manner, of software(s).
-- Patenting is encouraged to do under [Goldstein Patent Law], which states:
+- All are under **Vanguard Licensing** ℠
+- Licensing and Copyright preservation uses **Standard Software Licensing** for granting under the preferred licensing provider, all under in public or private manner, of software(s).
+- Patenting is encouraged to do *under* [Goldstein Patent Law], which states:
 
 ```
 Your patent is an investment that drives the long-term value of your business.
@@ -262,19 +264,20 @@ Your patent is an investment that drives the long-term value of your business.
 - [Business Method can be patented]
 
 ## Bayanihan OS, and Picosoft℠
-Is an Optimal Solution, Operating System, running on a bare Linux Kernel, with its bare Metal OS, as will be a derivative work, planned ahead, to renew the Apple and its Ecosystem of Phone Manufacturing, for especialized devices.
+Is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, as will be a derivative work, planned ahead, to renew the Apple and its *Ecosystem* of Phone Manufacturing, for especialized devices.
 
-- Picosoft ecosystem is a premium but excellent machines and devices, architected and perfected with the Grace of Almighty God.
-- The natural tendency to perfect these technology, is by the Excellent Unification of Almighty God, to Trust His Guidance, and Do His Will. There's no more secret to Perfection, but with Almighty God: we can all do all things through His Son's Name, with His Holy's Spirit, His Guidance, and with His Knowledge. God is True and Pure! We are now building the Ultimate Community, He to Help and Guide for the Education, Training, and Mastering His Perfect Will. He to Choose, Call, and with His Grace, Who'd Organized, and Blesses with Everything, that comes from Him. 
-- Sounds Utopian Socialist, right? ;)
-- All profits will proceed to the `[FYM Foundation]`; and
-- The ROI of ₱1 will be forever sufficient to support our cause, All for the Praise and Glory to the Almighty, and to our Lord's name, Jesus Christ.
+- **Picosoft℠** ecosystem is a *premium* but excellent machines and devices, architected and perfected with the **Grace of Almighty God**.
+- The natural tendency to perfect these technology, is by the **Excellent Unification of Almighty God**, to **Trust His Guidance**, and **Do His Will**. There's no more secret to Perfection, but *with* **Almighty God**: we can all do all things through **His Son's Name**, with **His Holy's Spirit**, **His Guidance**, and *with* **His Knowledge**. `God` is **True** and **Pure**! We are now building the *Ultimate Community*, **He** to Help and Guide for the Education, Training, and **Mastering His Perfect Will**. He to Choose, Call, and with His Grace, Who'd Organized, and **Blesses** with `Everything`, that comes from **Him**. 
+- *Sounds* **Utopian Socialist**, *right*? ;)
+- All profits will proceed to the [FYM Foundation]; and
+- The ROI of ₱1 will be **forever sufficient** to support our cause, All for the Praise and Glory to the Almighty, and to our Lord's name, Jesus Christ.
 
-### We are Here to leave this earth, a little better than before, but why not be the best? By all of our collaboration we can do, we can be, if we are simply the best, with all the gifts and guides — to nurture, the Only One Goldilocks — our One Planet. One Earth's Star. One People at a Time. Under One Moon.
+### We are Here to leave this earth a little better than before, 
+but why *not* **be the best**? By all of our collaboration we can do, we can be, if **we are simply the best**, with all the *gifts* and **guides** — to **nurture**, the *Only One Goldilocks* — our *One Planet*. *One* **Earth's Star**. **One People at a Time**. *Under One Moon*.
 
-God is Great! Good and Gracious all the time!
+**God is Great! Good and Gracious all the time!**
 
-If there would be a last message that i can leave here, it's all the gratefulness in Life that God bestow on all of Us.
+If there would be a *last message* that i can leave **here**, it’s all the **gratefulness in Life** that **God** bestow on *all of Us*.
 
 ```
 5th. (G) would be the God's Gift.
@@ -292,9 +295,9 @@ If there would be a last message that i can leave here, it's all the gratefulnes
 - G is for the Almighty One.
 - Guess what? We are all Filipinos at heart. A young, sisterly, brotherly, and loving culture,  
 - And we always have a Good, Gracious God; He is Greater than we in all.
-- He’s the Father of Christ, and Christ was the Head of His Church. A Great Company of Christian Servants.
-- We are already preparing for His Kingdom.
-- All for His Glory! A Glorious God Indeed!
+- **He**’s the **Father** of `Christ`, and `Christ` was the `Head` of **His** `Church`. **A Great Company of Christian Servants**.
+- We are already preparing for **His Kingdom**.
+- **All for His Glory! A Glorious God Indeed!**
 
 2022—Present
 
