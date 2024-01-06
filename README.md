@@ -238,14 +238,14 @@ he alone is God. Amen.
 ```
 
 ### We are `Almighty God’s People`, focused on `People Helping People`
-Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem, as a **solution**, we had made models for business (consumers, producers), financing, managing (the people — inside and outside, the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness for improve or to increase productivity, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the **Excellent Engineers** and **Prime Architects** — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the **Royal Developers** and **Agile HR**, to manage the project, prime to its **People**, or the **happy customers** and its **producers**, equally!
+Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem, as a **solution**, we had made models for business (consumers, producers), financing, managing (the people — inside/internal and outside/external, the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness for improve or to increase productivity, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the **Excellent Engineers** and **Prime Architects** — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the **Royal Developers** and **Agile HR**, to manage the project, prime to its **People**, or the **happy customers** and its **producers**, equally!
 We are a `Royal Club of every Professionals`, to do the work, because we value the **People**, but we value more our **Family**, and mostly, our **One True God**, above all, in serving one right.
 
 # `Royal Club`™ Machines, Equipments, and Technology
 We are the *Next* Silicon Valley! A Century and a Score Four! Because we love Tacos and Waffles!
 
 - For business, an MBA devices (not just machines) as *technological* tool would suffice!
-- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — revolutionizing the security and safety, and the *New* Tele-health, of Medical equipments and devices.
+- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — revolutionizing the **security and safety**, and the *New* **Tele-health**, of **Medical equipments and devices**.
 - A Century and Score, we are now in the field of Digital Electronics, Medical frontier of *non-invasive procedures*, and mobility — fitness and wellness of everyone!
 - We Are Bayanihan!
 
@@ -258,7 +258,7 @@ Bayanihan Software is subsidiary and trademark of parent company, **Egg Co.**, t
 ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
 - All are under **Vanguard Licensing** ℠
-- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using Eclipse license format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
+- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using Eclipse license format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, technicians, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
 - Licensing and Copyright preservation uses **Standard Software Licensing** for granting permission, under your preferred license provider, in public or private manner, to distribute the source and/or software(s).
 - Patenting is encouraged to do *under* [Goldstein Patent Law], which states:
 
@@ -270,13 +270,13 @@ Your patent is an investment that drives the long-term value of your business.
 - [Business Method can be patented]
 
 ## Bayanihan OS, and Picosoft℠
-`Bayanihan OS` is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, will be done as a derivative work of existing and available technologies, its architecture and look is planned ahead, to renew the look and feel of latest *Apple* `iPhone` and its *Ecosystem* and innovate the Manufacturing Process, to produce a desired, especialized devices.
+`Bayanihan OS` is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, will be done as a **derivative work** of existing and available technologies, its architecture and look is planned ahead, to renew the look and feel of latest *Apple* `iPhone` and its *Ecosystem* and innovate the Manufacturing Process, to produce a desired, especialized devices.
 
 - **Picosoft℠** and its Ecosystem is a *premium* but excellent machines and devices and Software Systems, and a SmartPhone under the brand `PS℠`, architected and perfected with the **Grace of Almighty God**.
 - The natural tendency to perfect these technology is all by the **Excellent Unification of Almighty God**, to **Trust His Guidance**, and **Do His Will**. There's no more secret to Perfection, but *with* **Almighty God**: we can all do all things through **His Son's Name**, with **His Holy's Spirit**, **His Guidance**, and *with* **His Knowledge**. `God` is **True** and **Pure**! We are now building the *Ultimate Community*, **He** to Help and Guide for the Education, Training, and **Mastering His Perfect Will**. He to Choose, Call, and with His Grace, Who'd Organized, and **Blesses** Us with `Everything` that comes from **Him**. 
 - *Sounds* **Utopian Socialist**, *right*? ;)
 - All profits will proceed to the [FYM Foundation]; and
-- The ROI of ₱1 will be **forever sufficient** to support our cause, All for the Praise and Glory to the Almighty, and to our Lord's name, Jesus Christ.
+- The ROI of ₱1 will be **forever sufficient** to support our cause, <br> All for the Praise and Glory to the Almighty, and to our Lord's name, Jesus Christ.
 
 ### We are Here to leave this earth a little better than before, 
 but why *not* **be the best**? By all of our collaboration we can do, we can be, if **we are simply the best**, with all the *gifts* and **guides** — to **nurture**, the *Only One Goldilocks* — our *One Planet*. *One* **Earth's Star**. **One People at a Time**. *Under One Moon*.
@@ -290,7 +290,11 @@ If there would be a *last message* that i can leave **here**, it’s all the **g
 6th., and last, was His Easter Egg.
 7th. would be the first and last slice of life. That is:
 8th: is to share abudantly!
-9th. is the last Star, the last step to execute all the adequate prerequisites. I am born perfectionistic, but without The Father, i would be nothing. This is sufficient declaration to have a perfect plan; because His salvation is True, and is the Total Plan to save everyone of Us. All for One. One for All.
+9th. is the last Star, the last step to execute all the adequate prerequisites.
+ ... I am born perfectionistic, but without The Father, i would be nothing. 
+This is sufficient declaration to have a perfect plan; because His salvation is True, 
+and is the Total Plan to save everyone of Us. 
+All for One. One for All.
 ```
 
 # Egg Co.
@@ -301,7 +305,7 @@ If there would be a *last message* that i can leave **here**, it’s all the **g
 - G is for the Almighty One.
 - Guess what? We are all Filipinos at heart. A young, sisterly, brotherly, and loving culture,  
 - And we always have a Good, Gracious God; He is Greater than we in all.
-- **He**’s the **Father** of `Christ`, and `Christ` was the `Head` of **His** `Church`. **A Great Company of Christian Servants**.
+- **He**’s the **Father** of `Christ`, and `Christ` was the `Head` of **His** `Church`. <br> **A Great Company of Christian Servants**.
 - We are already preparing for **His Kingdom**.
 - **All for His Glory! A Glorious God Indeed!**
 
@@ -315,8 +319,10 @@ In Memorial to Every Christian People.
 
 `There is no rocket science in here!`
 
-`Let us Join saving the People, All Living, and Believers, 
-let Us all unite for one Cause`
+```
+Let us Join saving the People, All Living, and Believers, 
+let Us all unite for one Cause
+```
 
 `This is Love Revolution!`
 
