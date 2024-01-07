@@ -184,6 +184,203 @@ tear off his yoke from your neck.”
 - **Corrales**: a **Blue Ocean** Institute, headquartered in 3-CAs
 - **mczvc** is an Institute, offering `Software Architecture`, `Engineering and Technology`, especializing for **Fitness Equipments and Medical Devices**, and Revolutionized the **Cybersecurity**; in partnership with `Accenture`, `MIT`, `Department of Homeland Security`, and `Allied Health`, *respectively*) and a **School for Business and Management**, specialized from `Harvard Business School`
 
+Branch name: DAD System and University, [DADSU]
+
+# DAD University
+<details>
+<summary>Blueprint education model, for instructors, educators, and ...</summary>
+
+- Instead of Exam, a pre-review notes or study pointer guide checklist is introduced up-front to students.
+    * Exam is for evaluation, re-evalution and assessment. So we seperate it in Two, another program.
+- The Companion Workbook or Module Guide or Textbooks is the only Miscellaneous Purchase should be required during the whole course of first-semester study; 
+- second-semester is a combined laboratory (such as in Computing Course) and course-work
+
+## Courses Offered
+### Undergraduate
+1. BSc. Computer Science major in Software Architecture
+  - First Year is all about Fundamentals, and History of Computing (the Programming Laguages, and the Computers that have been built), and an in-depth analysis to Process Methods, Computer Organization, Writing Essays for the Thesis.
+  - Second Year, 
+     1. First Sem is Introduction to Software Engineering.
+     2. Second Sem is a laboratory, course-work in applying both fundamentals to computing and practicing the principle of SE, and the student will be first introduced to doing a mini-thesis.
+ - Third Year is a combined Research Program, and building their Work Network through the OJT Program with partnered Companies in the Industry, this is special for our Institutionalized Association of Computing Machinery, called Vanguard Industries.
+     1. Second Semester is a basic study of Web Developing fundamentals.
+ - Fourth Year, 
+     1. First Semester is about the Fundamentals to Software Architecture.
+     2. Second Semester is about their Thesis.
+
+### Continuous Learning Program
+It is an extended studies with the Introduction to Business Management, 
+
+- The Undergraduate Student is offered with a 30-day trial membership for a free access to the vast and wide resources from the Consultancy Program of the University's Vanguard Consultancy.
+    1. Members may wish to ask what resources they should need in what they wish to pursue and earn title of expertise.
+    2. They may now start their Official Membership, as:
+    3. They will receive their resources, upon payment for the purchase of materials, resources, free of consultations fee.
+    4. Members may wish to start early their program before the 30-day trial period.
+- On **Members**' first extension, the practicing student will learn the application of Managerial methods to Software Architecture Profession as a Business Developer, and he will gain a practitioner's title to Professional Software Architect, equiped with the Managerial Methods.
+- On its succeeding extensions of the Program, the Members are free to choose their **upskilling** of *technologies*, *computer language*, *expertise*, *..*; this is a continuous studies and improvement of learning their knowledge to the vast web studies of the Computer Science.
+
+`CLP` is the prime and continuous membership to the Masteral Degree Application, to freely choose their designated expertise, practice, or specialization. As they reach the qualification, Members shall earn their Degree as MSc. in Computer Science, with their chosen expertise as their specialization, certified as they earn their title.
+
+### Doctorate Degree Under CLP
+Members, with a MSc. Degree, should pursue their Doctorate. They are, at this time, a United Alumnus Royals as Professionals.
+</details>
+
+# Undergraduate Catalog 2024
+<details>
+<summary>Computer Science (BS)</summary>
+
+I'm interested!
+
+## Sample Curriculum for the Bachelor of Science in Computer Science
+
+### Year 1 (Fall Semester)
+
+* (3) CS 111 Computer Science Principles (BICS)
+* (3) CS 140 Introduction to Computing I
+* (3) ENG 101 English Composition I
+* (5) MATH 150 Calculus I (FQR)
+* (3) ACS 103 Interpersonal Communication Skills (Choose elective of either: [A]llied Health, or [B]usiness Finance)
+
+17 – Total Credits
+
+#### Textbooks:
+
+1. Computer Science Principles: The Foundational Concepts of Computer Science
+2. Introduction to Computation in Physical Sciences: Interactive Computing and Visualization with Python™
+     - This book provides a practical and comprehensive introduction to computational problem solving from the viewpoints of practitioners in both academic and industrial worlds.
+3. A Student's Introduction to English Grammar
+    - This groundbreaking undergraduate textbook on modern Standard English grammar is the first to be based on the revolutionary advances of the authors' previous work, The Cambridge Grammar of the English Language (2002). The text is intended for students in colleges or universities who have little or no previous background in grammar, and presupposes no linguistics. It contains exercises, and will provide a basis for introductions to grammar and courses on the structure of English, not only in linguistics departments but also in English language and literature departments and schools of education.
+4. Calculus [12e. ed.]
+5. (a) Interpersonal Relationships Professional Communication Skills for Canadian Nurses, or (b) People-Centric Skills: Interpersonal and Communication Skills for Financial Professionals
+
+### Year 1 (Spring Semester)
+
+* (3) CS 150 Introduction to Computing II
+* (3) ENG 102 English Composition II
+* (3) RA 101 Reasoning & Argumentation (Choose elective between [a] and [b])
+* (5) MATH 152 Calculus II (BPS)
+* (3) MATH 224 or MATH 223 Discrete Mathematics (BPS)
+
+17 – Total Credits
+
+#### Textbooks/Workbooks:
+
+1. Introduction to Bioinformatics and Clinical Scientific Computing
+2. AP English Literature and Composition Premium, 2024: 8 Practice Tests + Comprehensive Review + Online Practice
+     - Barron’s AP English Literature and Composition, Premium, 2024, includes in-depth content review and online practice. It’s the only book you’ll need to be prepared for exam day.
+3. [a] Experimental Philosophy of Language: Perspectives, Methods, and Prospects, or [b] Islamic Disputation Theory: The Uses & Rules of Argument in Medieval Islam
+   - This book charts the evolution of Islamic dialectical theory (jadal) over a four-hundred year period. It includes an extensive study of the development of methods of disputation in Islamic theology (kalām) and jurisprudence (uṣūl al-fiqh) from the tenth through the fourteenth centuries. The author uses the theoretical writings of Islamic theologians, jurists, and philosophers to describe the concept. Overall, this investigation looks at the extent to which the development of Islamic modes of disputation is rooted in Aristotle and the classical tradition.
+4. Calculus and Linear Algebra: Fundamentals and Applications
+    - This textbook offers a comprehensive coverage of the fundamentals of calculus, linear algebra and analytic geometry. Intended for bachelor’s students in science, engineering, architecture, economics, the presentation is self-contained, and supported by numerous graphs, to facilitate visualization and also to stimulate readers’ intuition. The proofs of the theorems are rigorous, yet presented in straightforward and comprehensive way. With a good balance between algebra, geometry and analysis, this book guides readers to apply the theory to solve differential equations. Many problems and solved exercises are included.
+    - (plus) The Practice of Argumentation: Effective Reasoning in Communication (Critical Reasoning and Argumentation)
+5. Discrete Math I, II, III
+    -  Discrete Mathematics with Applications [5 ed.], Cengage Learning
+    - Discrete Mathematics with Coding
+    - Connecting Discrete Mathematics and Computer Science
+
+### Year 2 (Fall Semester)
+
+* (3) CS 234 Database and Web System Development
+* (3-4) MATH elective
+
+6-7 – Total Credits
+
+#### Textbooks:
+1. Enterprise System Architectures: Building Client Server and Web Based Systems
+    - In `CLP`, you will get a wide range of topics and certain recommendations, when you enter in our `Consultation Program`, for example, we had received this **new** technological *tool* called `Strapi`, if you are fond to JS ecosystem:  Designing Web APIs with Strapi: Get started with the Strapi headless CMS by building a complete learning management system API
+2. Jаvascript Programming: 3 In 1 Security Design, Expressions And Web Development
+3. In `CLP`, there are so many *new* and **relevant** technologies (language, frameworks, ecosystems libraries, tools, end practices), here's the examples of *new* and **robust** Full-stack of Web Development:
+    - Rust Web Development, Manning Publications
+    - PHP 8 Basics. For Programming and Web Development
+    - Learn React with TypeScript: A beginner's guide to reactive web development with React 18 and TypeScript, [2 ed.]
+4. Architectural Framework for Web Development and Micro Distributed Applications
+5. Applied Mathematics for Database Professionals +
+    - Database Design Using Entity-Relationship Diagrams [3 ed.]
+    - Database Systems. A Pragmatic Approach [3 ed.]
+    - `CLP`, Azure Database Services: Easy and Understandable Guide for Beginners
+    - `CLP`, Mastering PostgreSQL 15: Advanced techniques to build and manage scalable, reliable, and fault-tolerant database applications
+    - `CLP`, AWS Certified Database. Study Guide. Specialty (DBS- C01) Exam
+    - `Advanced CLP`, Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023
+
+
+### Year 2 (Spring Semester)
+
+* (3) CS 286 Intro to Computer Organization & Architecture
+* (3) MATH Elective
+* (3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)
+
+ 9-10 – Total Credits
+
+#### Textbooks:
+
+1. Computer Organization And Architecture. Designing For Performance [11 Global Edition]
+2. Computer Organization [18 ed.]
+3. Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers [2 ed.]
+4. `CLP`:
+    -  Computer Organization and Design MIPS Edition: The Hardware/Software Interface [6 ed.]
+    - Computer Architecture and Organization: Fundamentals and Architecture Security
+    - Student Study Guide With IBM® SPSS® Workbook for Research Methods, Statistics, and Applications [3 ed.]
+5. Research Methods, Statistics, and Applications [Paperback ed.]
+
+### Year 3 (Fall Semester)
+
+* (3) CS 360 Ethical and Secure Computing
+* (3) CS 340 Algorithms and Data Structures
+* (3) CS 314 Operating Systems
+
+9 – Total Credits
+
+### Year 3 (Spring Semester)
+
+* (3) CS 325 Software Engineering
+* (3) CS 447 Networks and Data Communications
+* (3) CS 330 Programming Languages
+* (3) Breadth Life Science (BLS)
+
+12 – Total Credits
+
+#### Workbooks:
+
+1. Software Engineering for Data Scientists
+    - This practical book bridges the gap between data science and software engineering, clearly explaining how to apply the best practices from software engineering to data science.
+
+2. Computer networks. Data communications, Internet and security.
+    - The authors explore various aspects of information processing for the design of service systems, efficient management, secure storage, and transmission.
+
+3. Computer science to the Point: Computer Science for Life Sciences Students and Other Non-Computer Scientists
+     - This textbook is aimed at students of non-specialist courses with computer science components. Special emphasis is placed on the so-called life sciences, such as medical technology, rescue engineering, biotechnology, environmental engineering or process engineering. 
+
+#### Year 4 (Fall Semester)
+
+* (3) CS 425 Senior Project: Software Design
+* (3) CS Elective I
+* (3) CS Elective II
+* (3) CS Elective III
+* (3) Breadth Social Science (BSS)
+
+15 – Total Credits
+
+### Year 4 (Spring Semester)
+
+* (3) CS 499-Senior Project: Software Implementation
+* (3) CS Elective IV
+* (3) CS Elective V
+* (1) Health Experience (EH)
+* (4) Rizal IV, VI
+* (3) U.S. Race, Gender, and Equity (ERGU) or Global Cultures, Race, and Equity Education (EREG)*
+
+17 - Total Credits
+
+#### Textbooks:
+- José Rizal: Life, Works, and Writings of a Genius, Writer, Scientist, and National Hero [Second Edition]
+
+* If a course satisfies both the EREG and ERGU requirements, students will be given credit for one of the attributes and need to take a course that fulfills the other attribute.
+
+Total Hours 120
+
+</details>
+
+
 # Bayanihan Foundation ℠
 ## _(Bayan Ni Juan)_ 
 `Bayanihan Foundation` is a collaboration of the following foundations: MC, JK, RG, GB, Roberto Sr., CJ, CA; PC-SJ-NC-VB-DD-DC-GP-GC Groups, and **mczvc** Institute, all under in One Name.
