@@ -192,10 +192,10 @@ tear off his yoke from your neck.”
 ![image](https://github.com/mczvc-biomew/OneLang/assets/98096247/c05331f1-3580-46b2-9801-9bf781423f36)
 
 # Bayanihan Learning and College
-- ₱1 forever tuition! No hidden charge(s). Transparent and flat rate for all `Filipino`(s). A two-semester college education.
+- ![Forever Tuition](https://img.shields.io/badge/₱-1-red.svg) forever tuition! No hidden charge(s). Transparent and flat rate for all `Filipino`(s). A two-semester college education.
 - ☪️ Shari’ah-Compliant
 - Decentralized Learning
-- All alums (alumnus and alumnae) will be called **United Alumnus Royals**, all are Dear to Everyone!
+- All alums (alumnus and alumnae) will be called ![United Alumnus Royals](https://img.shields.io/badge/United-Alumnus_Royals-blue.svg), all are Dear to Everyone!
 - A much higher body of commission on education will be needed in the future to guarantee and protect academic freedom for continuing intellectual growth, advancement of learning and research, development for responsible and effective leadership, education of high level professionals, and enrichment of historical and cultural heritages. This is not to disrupt every (body or) commission that regulates the higher education, but to honor and preserve the dignity of every professional educators, through different and separate model of recompensation, a system that is guaranteed to liberate everyone in a balanced and stable ecosystem of education financing through the continuous effort and evaluation of every members of the committee. Learning will never be fun! nor continuous; Nor prosperous! Are you dreaming of all of these three, abudantly? `Remember`: *Everything* is **possible** with the **Almighty**! And all of Good things comes from **God**! Abudantly. **Always** and **Forever**.
 - We value these 6-major-character competencies to everyone: effort, value, skills, knowledge, wisdom, and abilities.
 
