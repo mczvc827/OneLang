@@ -24,7 +24,9 @@
 
 # Trademarks Registered
 
-# we are all members of the `Church Of Christ` or `Iglesia Ni Cristo`
+# we are all members of the ![Static Badge](https://img.shields.io/badge/Iglesia-Ni-white?style=flat-square&logo=%F0%9F%95%8E&logoColor=green&label=%F0%9F%95%8E%20Iglesia&labelColor=green&color=white&link=https%3A%2F%2Figlesianicristo.net%2F)![Static Badge](https://img.shields.io/badge/Church_Of_Christ-red?style=flat-square&logo=%F0%9F%87%AE%F0%9F%87%B9&logoColor=red&label=Cristo%20%F0%9F%87%AE%F0%9F%87%B9&labelColor=red&color=white&link=https%3A%2F%2Fincgiving.org%2F)
+![Static Badge](https://img.shields.io/badge/God's_Message-blue?style=plastic&logo=ph&logoColor=blue&label=%F0%9F%95%8E&labelColor=blue&color=white&link=https%3A%2F%2Fwww.pasugo.com.ph%2F)
+
 ## Changing lives through `God`’s Words.
 ### We are encouraging you:
 to a nearest or inside `His House` and `Church` for a `Worship Services`, because this is the **Truth**, **The Kingdom** we seek, and the **Greatest Membership** you will ever receive. Through *it* We will be saved, come the day of `Judgement`.
