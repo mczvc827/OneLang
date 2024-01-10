@@ -124,8 +124,10 @@ The Society works in co-operation and consultation with national, provincial, re
 # Subsidiaries under Egg Co.
 ## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
-### - [CV]
+### - [CV] [:docx](./mczvc/CV%20(1-10-2024_1245).docx) [:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf)
 ### - [Resume]
+<img src='./mczvc/Screenshot_20240110-123236.png' width='720px'/>
+
 ### HQs: 4-CAs
 - 2 in the `Philippines`,
 - 1 in `Central America`, and
