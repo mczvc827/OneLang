@@ -223,7 +223,8 @@ she will bestow a beautiful crown on you.”
 ```
 
 Branch name: Network Careers — A value-based work, network and platform for careers [nc]
-# Network.Careers
+# Network.Careers ![Network Careers](https://img.shields.io/badge/Network-Careers-blue?style=flat-square&logoColor=blue&label=Network&labelColor=blue&color=white)
+
 A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by hourly rate) of a worker or employee, that still occupies _their_ time and obligates to work only on one job or project at a time; by (or with) a motto: 
 [**A**]lways [**S**]uceeding ™ — with this, we are **empowering** the _freelancing mindset_ before it was revolutionized.
 With our Instute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work endlessly, thus earning endlessly — or one Work or One Project at a time, thus saving effort and *probably* time, preserving and upskilling your **value** — your **skills**, but now equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
