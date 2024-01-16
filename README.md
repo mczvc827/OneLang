@@ -557,10 +557,13 @@ she will bestow a beautiful crown on you.”
 Branch name: Network Careers — A value-based work, network and platform for careers [**nc**]
 # Network.Careers ![Network Careers](https://img.shields.io/badge/Network-Careers-blue?style=flat-square&logoColor=blue&label=Network&labelColor=blue&color=white)
 
-A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs—which rates work by time-based rate (usually by an hourly rate) of a worker or employee—everytime, and to still date—occupies _their_ **precious time**, and obligates them to *work only* by an old way of time-based model—kind of work, 
+A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the—
+### compared to—
+traditional jobs—which rates work by time-based rate (usually by an hourly rate) of a worker or employee—everytime, and to still date—occupies _their_ **precious time**, and obligates them to *work only* by an old way of time-based model—kind of work, 
 which rates them poorly to do one job or project, one task at a time—locking them to a poor-waged situations of tedious and mundane life—those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
 thus, with, by, (or with) the motto: 
-> AS ALWAYS: [**A**]lways [**S**]uceeding`™, instead, 
+> AS ALWAYS: [**A**]lways [**S**]uceeding`™, 
+### instead, 
 - we are proving you your **true values** you have had *before*; 
 - **be ready to engage**, as we will **showcase you to the whole world**—
   - of  fun, memorable, and exciting kind of interaction and collaboration
