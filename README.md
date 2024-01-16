@@ -598,7 +598,7 @@ Before it was revolutionized!
 
 - Socials, (or *Socialites*): however they may say it! we are also have a social standing to the Society, on the wave of *Technological Facts* and its **Mediums**, a popular culture: by **empowerment**; 
 or by *humiliation*, because of mediocrity or *whatever* the reason(s): a *branded humans* or *mortified soul* as it is, because of these Social Contracts and stagnant Social Standings: 
-still humiliating Us as it is to not have *these kinds* a social life!
+still humiliating—Us, as it is—to not have *these kinds* a social life!
   - https://www.psychologytoday.com/us/blog/hide-and-seek/201408/the-psychology-humiliation
 
 ###  Introducing `Network.Careers`
