@@ -553,7 +553,7 @@ A **nice, network platform** of careers for value-based work, or job postings th
 which rates them poorly to do one job or project, one task at a time, locking them to a poor-waged situations of tedious and mundane life; those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
 thus, with, by, (or with) the motto: 
 [**A**]lways [**S**]uceeding ™, instead, we are proving you your **true values** you had before, **be ready to engage**, as we will **showcase you to the whole world**—of  fun, memorable, and exciting kind of interaction (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
-thus, becoming and valuing: yes! your **happiness** *you truly seek*, and your **succeeding values**—we are about to empower,
+thus, becoming and valuing: yes! your **happiness**—*you truly seek*, and your **succeeding values**—we are about to empower,
 **so stop hiding** *it*! It's now time to **value your true rate**, and to pursue too, your career—and it's not late to **showcase your skills**, **value**, 
 and use **your value-based rate of work**, because we believed that you should be payed according to your **value** for every (credentials, skills, and *everything that contributes* to your **value**) that you earn; 
 you will see how professional's in their careers rate their work; and,
