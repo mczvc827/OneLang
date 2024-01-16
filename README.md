@@ -353,7 +353,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
     Database and Web System Development
 
     An introduction to multi-tier software systems and database programming and their application to web-based information storage and retrieval systems.
-</details>
+ </details>
 
 - (3-4) MATH elective
 
@@ -552,9 +552,13 @@ Branch name: Network Careers — A value-based work, network and platform for ca
 A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by an hourly rate) of a worker or employee that still occupies _their_ time, and obligates them to work only on an old way of time-based kind of modelled work, 
 which rates them poorly to do one job or project, one task at a time, locking them to a poor-waged situations of tedious and mundane life; those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
 thus, with, by, (or with) the motto: 
-[**A**]lways [**S**]uceeding ™, instead, we are proving you your **true values** you had before, **be ready to engage**, as we will showcase you to the whole world of — fun, memorable, and exciting kind of interaction (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
+[**A**]lways [**S**]uceeding ™, instead, we are proving you your **true values** you had before, **be ready to engage**, as we will **showcase you to the whole world**—of  fun, memorable, and exciting kind of interaction (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
 thus, becoming and valuing: yes! your **happiness** *you truly seek*, and your **succeeding values**—we are about to empower,
-*so stop hiding** *it*! It's now time, and it's not late, or *later than ever* you will *ever*, **truly free**; `be free, now and then`!
+**so stop hiding** *it*! It's now time to **value your true rate**, and to pursue too, your career—and it's not late to **showcase your skills**, **value**, 
+and use your value-based rate of work, because we believed that you should be payed according to your **value** for every (credentials, skills, and *everything that contributes* to your **value**) that you earn, 
+you will see how professional's in their careers rate their work; and,
+it's *never* *later than ever*—that you will learn how and why **value-based rate** is truly liberating!
+—you will *ever* be **truly free**; `be free, now and then`!
 
 — to Us you are **truly empowered** with this kind of reworked system; 
 we are **empowering** the people's _freelancing kind of mindset_ when it comes to working, because they always wanting, 
