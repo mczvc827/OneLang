@@ -560,15 +560,26 @@ Branch name: Network Careers — A value-based work, network and platform for ca
 A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by an hourly rate) of a worker or employee that still occupies _their_ time, and obligates them to work only on an old way of time-based kind of modelled work, 
 which rates them poorly to do one job or project, one task at a time, locking them to a poor-waged situations of tedious and mundane life; those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
 thus, with, by, (or with) the motto: 
-[**A**]lways [**S**]uceeding ™, instead, we are proving you your **true values** you had before, **be ready to engage**, as we will **showcase you to the whole world**—of  fun, memorable, and exciting kind of interaction (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
-thus, becoming and valuing: yes! your **happiness**—*you truly seek*, and your **succeeding values**—we are about to empower,
-**so stop hiding** *it*! It's now time to **value your true rate**, and to pursue too, your career—and it's not late to **showcase your skills**, **value**, 
-and use **your value-based rate of work**, because we believed that you should be payed according to your **value** for every (credentials, skills, and *everything that contributes* to your **value**) that you earn; 
-you will see how professional's in their careers rate their work; and,
-it's *never* *later than ever*—that you will learn how and why **value-based rate** is truly liberating!
-—you will *ever* be **truly free**; `be free, now and then`!
+> AS ALWAYS: [**A**]lways [**S**]uceeding`™, instead, 
+- we are proving you your **true values** you have had *before*; 
+- **be ready to engage**, as we will **showcase you to the whole world**—
+  - of  fun, memorable, and exciting kind of interaction anc collaboration
+    - (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
+    - thus, becoming and valuing: 
+  - yes! your **happiness**—*you truly seek*, and your **succeeding values**—
+  - With Us! *Light will shine out the darkness*
+- **we are about to empower**—**so stop hiding** *it*! 
+  - It's now time to **value your true rate**, and to **pursue too** your career—
+  - and it's not late to **showcase your skills**, **value**, 
+  and use **your value-based rate of work**, 
+    - because we believed that **you should be sensibly paid**, wholesomely, 
+    according to your **value** for every (credentials, skills, and *everything that contributes* to your **value**) that you have earned;
+    - you will **see how** those professional's, in their careers, rate their work; 
+  - and, it's *never* *later than ever*—that you will **learn how** 
+    - and *why* **value-based rate** is truly `liberating`!
+    —you will *ever* be **truly free**; `be free, now and then`!
 
-— to Us you are **truly empowered** with this kind of reworked system; 
+— to Us, you are **truly empowered** with this kind of `reworked system`; 
 we are **empowering** the people's _freelancing kind of mindset_ when it comes to work, and when they are working, because they are always wanting, 
 and wanted, to value the power to interact and to meet their true needs, and wants, with their profound purpose—new and hardly knew;
 
@@ -587,28 +598,34 @@ or by *humiliation*, because of mediocrity or *whatever* the reason(s): a *brand
 still humiliating Us as it is to not have *these kinds* a social life!
 https://www.psychologytoday.com/us/blog/hide-and-seek/201408/the-psychology-humiliation
 
-We are now here to empower you! — You mattered, anyways.
+`We are now here to empower you`! — You `matter`ed, *anyways*.
 
-With our Institute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work professionally or endlessly, thus earning also endlessly with (someone you can trust), or by a `Smart Move`™, done and earn with your kind of Profession(s), by doing One Work or One Project, at a time, 
-thus saving effort and *probably* time, preserving and upskilling your **value** — your **skills**, 
-with the redefined work contract(s): 
-you are now, but—now equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
+With our Institute and partners, you do now have the power of the **True Royal Degree** to **communicate** and **network** 
+with the `Royal Professionals`—to work professionally or *endlessly*, thus **earning also endlessly** with (`someone you can trust`), or by a `Smart Move`™; 
+**do it** and **earn it** your—kind of Profession(s)
+- by doing One Work or One Project at a time, 
+- thus **saving you your effort** and *probably* your time, preserving and upskilling your **value**—your **skills**, 
+with the **redefined work contract(s)**: 
+  - you are now, but—**now equipped** with your acquired values + (plus) your *honed* **God-Given Gift** from the **Almighty One**!
 
-Thus, you are *not also* **working Smart**, but engaging **Smartly**℠ also with our revolutionized, **Smart Contract for the People**™, naturally, it's **By Design**™.  
+With Us, you are *not only* **working Smart**, but engaging **Smartly**℠, also, with our revolutionized, **Smart Contract for the People**™—naturally, it's **By Design**™.  
 
-It's time to **learn, apply, and lead** *courageously* and *victoriously*, or **work collaboratively**, with Us — because We had predefined our **Every Smart Environment**℠, 
-and with You — with an **honor of excellency** on every aspect of your career!
+It's time to **learn, apply, and lead** *courageously* and *victoriously*, or **work collaboratively**, 
+- with Us—because We had predefined our **Every Smart Environment**℠, 
+- and with You—with an **honor of excellency** on `every aspect of your career!`
 
 We had also revolutionized the **Management Aspect** of *Every Known Career*(s), not just for managing, but it's for the **growth and development** of _**every** team_ and its **members**.
 You can now work **freely**, with your predefined **dignity** and **honor**, to showcase your **new values**, **comfortably** and *with easiness*!
 Now, that's an **integrity**.
 
-You have *now* expanded your horizon, horizontally and vertically, with **your natural talents**, or by practicing and exercising it, for every **best opportunities** we had **prepared for you**;
+By now, you have expanded your horizon, *horizontally and vertically*, with **your natural talents**, or, by practicing and exercising it,
+**you are now prepared** for every **best opportunities** we had **prepared for you**;
 you: to **Do It**, and We: **to provide** it, because with us—you are **simply the best**.
 
 Leading your new way to the paved industries since the last `Industrial Revolution` aka *“The Intelligence Revolution”*.
 `Forget everything that hinders you`:
-because we had an **Awesome God**, which was the **Almighty One**, **Who** guides us to every deal of technologies, done by *subversive* *men*! 
+because we had an **Awesome God**—you can **rely on**, which was the **Almighty One**, 
+**Who guides us**——to *every deal of technologies*—we can say, done by *subversive* *men*! 
 
 **We are all created equal**, but *revolutionaries*! 🇵🇭🕍🕎🇮🇹
 
