@@ -561,7 +561,7 @@ it's *never* *later than ever*—that you will learn how and why **value-based r
 —you will *ever* be **truly free**; `be free, now and then`!
 
 — to Us you are **truly empowered** with this kind of reworked system; 
-we are **empowering** the people's _freelancing kind of mindset_ when it comes to working, because they always wanting, 
+we are **empowering** the people's _freelancing kind of mindset_ when it comes to work, and when they are working, because they are always wanting, 
 and wanted, to value the power to interact and to meet their true needs, and wants, with their profound purpose—new and hardly knew;
 
 Changing the world—not the truth, the **truth about Us**: of our `values`, of our `capabilities`, and of our `essence` **to the world**!
