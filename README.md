@@ -27,9 +27,16 @@
 # we are all members of the [![Static Badge](https://img.shields.io/badge/Iglesia-Ni-white?style=flat-square&logo=%F0%9F%95%8E&logoColor=green&label=%F0%9F%95%8E%20Iglesia&labelColor=green&color=white)](https://iglesianicristo.net)[![Static Badge](https://img.shields.io/badge/Church_Of_Christ-red?style=flat-square&logo=%F0%9F%87%AE%F0%9F%87%B9&logoColor=red&label=Cristo%20%F0%9F%87%AE%F0%9F%87%B9&labelColor=red&color=white)](https://incgiving.org)
 [![Static Badge](https://img.shields.io/badge/God's_Message-blue?style=plastic&logo=ph&logoColor=blue&label=%F0%9F%95%8E&labelColor=blue&color=white)](https://www.pasugo.com.ph)
 
-## Changing lives through `God`’s Words.
+## [Changing lives through `God`’s Words.](https://iglesianicristo.net/evangelism/)
 ### We are encouraging you:
-to a nearest or inside `His House` and `Church` for a `Worship Services`, because this is the **Truth**, **The Kingdom** we seek, and the **Greatest Membership** you will ever receive. Through *it* We will be saved, come the day of `Judgement`.
+to a nearest or inside `His House` and `Church` for a `Worship Services`, because this is the **Truth**, 
+**The Kingdom** we seek, and the **Greatest Membership** you will ever receive. 
+[[Matthew 6:33](https://www.biblegateway.com/verse/en/Matthew%206:33)] [[Matthew 6](https://www.biblegateway.com/passage/?search=Matthew%206&version=NIV)]<br>
+Through *it*, We will be saved, come the day of `Judgement`. [[1 Corinthians 4:5](https://www.biblegateway.com/verse/en/1%20Corinthians%204:5)]
+
+[![img.png](INC_COC_Worship.png)](https://iglesianicristo.net/worship/)
+
+
 - **(Genesis 12:[1-2])**
 
 ```
@@ -139,10 +146,12 @@ to David your father.
 _Vanguard_ leads a `Bayanihan Learning`, a partner and **Forever Dear** for every **Eranian**s.
 
 - **Vanguard** is a _western_ term for **Angel** (Fem. `Angelou`, Masc. `Angelo`).
-- A full-arm or a mastery of professionalism, a ready professionals, probably an `Allied Health Professional`, aimed and tenured with secured practices, to educate, and/or mobilize, and eventually liberate the people of education, to be prepared to serve the **Almighty God**, an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
+- A full-arm or a mastery of professionalism, a ready professionals, 
+  - probably an `Allied Health Professional`, 
+  - aimed and tenured with secured practices, to educate, and/or mobilize, and eventually liberate the people of education, to be prepared to serve the **Almighty God**, an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
 
 ## `Vanguard` — `Sigma` `Epsilon`, `Sigma` `Alpha`
-- Is a **Software Engineers** and **Software Architects** that is also a `CBI` or `Christian Brotherhood International`
+- Is a **Software Engineers** and **Software Architects** that is also a `CBI` or [`Christian Brotherhood International`](https://iglesianicristo.net/edification/)
 
 
 **(Exodus 8:[1-2], NASB)**
@@ -193,17 +202,17 @@ Branch name: DAD System and University, [**DADSU**]
 
 # DAD University
 <details>
-<summary>Blueprint education model, for instructors, educators, and ...</summary>
+<summary>Blueprint for education model, for instructors, educators, and ...</summary>
 
 - Instead of Exam, a pre-review notes or study pointer guide checklist is introduced up-front to students.
-    * Exam is for evaluation, re-evalution and assessment. So we seperate it in Two, another program.
+    * Exam is for evaluation, re-evaluation and assessment. So we separate it in Two, another program.
 - The Companion Workbook or Module Guide or Textbooks is the only Miscellaneous Purchase should be required during the whole course of first-semester study; 
 - second-semester is a combined laboratory (such as in Computing Course) and course-work
 
 ## Courses Offered
 ### Undergraduate
 1. BSc. Computer Science major in Software Architecture
-  - First Year is all about Fundamentals, and History of Computing (the Programming Laguages, and the Computers that have been built), and an in-depth analysis to Process Methods, Computer Organization, Writing Essays for the Thesis.
+  - First Year is all about Fundamentals, and History of Computing (the Programming Languages, and the Computers that have been built), and an in-depth analysis to Process Methods, Computer Organization, Writing Essays for the Thesis.
   - Second Year, 
      1. First Sem is Introduction to Software Engineering.
      2. Second Sem is a laboratory, course-work in applying both fundamentals to computing and practicing the principle of SE, and the student will be first introduced to doing a mini-thesis.
@@ -221,7 +230,7 @@ It is an extended studies with the Introduction to Business Management,
     2. They may now start their Official Membership, as:
     3. They will receive their resources, upon payment for the purchase of materials, resources, free of consultations fee.
     4. Members may wish to start early their program before the 30-day trial period.
-- On **Members**' first extension, the practicing student will learn the application of Managerial methods to Software Architecture Profession as a Business Developer, and he will gain a practitioner's title to Professional Software Architect, equiped with the Managerial Methods.
+- On **Members**' first extension, the practicing student will learn the application of Managerial methods to Software Architecture Profession as a Business Developer, and he will gain a practitioner's title to Professional Software Architect, equipped with the Managerial Methods.
 - On its succeeding extensions of the Program, the Members are free to choose their **upskilling** of *technologies*, *computer language*, *expertise*, *..*; this is a continuous studies and improvement of learning their knowledge to the vast web studies of the Computer Science.
 
 `CLP` is the prime and continuous membership to the Masteral Degree Application, to freely choose their designated expertise, practice, or specialization. As they reach the qualification, Members shall earn their Degree as MSc. in Computer Science, with their chosen expertise as their specialization, certified as they earn their title.
@@ -363,7 +372,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 1. Enterprise System Architectures: Building Client Server and Web Based Systems
     - In `CLP`, you will get a wide range of topics and certain recommendations, when you enter in our `Consultation Program`, for example, we had received this **new** technological *tool* called `Strapi`, if you are fond to JS ecosystem: 
         - Designing Web APIs with Strapi: Get started with the Strapi headless CMS by building a complete learning management system API
-2. Jаvascript Programming: 3 In 1 Security Design, Expressions And Web Development
+2. JavaScript Programming: 3 In 1 Security Design, Expressions And Web Development
 3. In `CLP`, there are so many *new* and **relevant** technologies (programming languages, frameworks, libraries with well-documented ecosystem, programming tools, and practices), here are the examples of *new* and **robust** `full-stack` of Web Development:
     - Rust Web Development, Manning Publications
     - PHP 8 Basics. For Programming and Web Development
@@ -510,7 +519,6 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 >Total Hours 120
 
 </details>
-
 
 # Bayanihan Foundation ℠
 ## _(Bayan Ni Juan)_ 
@@ -671,10 +679,10 @@ Your patent is an investment that drives the long-term value of your business.
 - [Business Method can be patented]
 
 ## Bayanihan OS, and Picosoft℠
-`Bayanihan OS` is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, will be done as a **derivative work** of existing and available technologies, its architecture and look is planned ahead, to renew the look and feel of latest *Apple* `iPhone` and its *Ecosystem* and innovate the Manufacturing Process, to produce a desired, especialized devices.
+`Bayanihan OS` is an **Optimal Solution**, **Operating System**, running on a bare Linux Kernel, with its bare Metal OS, will be done as a **derivative work** of existing and available technologies, its architecture and look is planned ahead, to renew the look and feel of latest *Apple* `iPhone` and its *Ecosystem* and innovate the Manufacturing Process, to produce a desired, specialized devices.
 
 - **Picosoft℠** and its Ecosystem is a *premium* but excellent machines and devices and Software Systems, and a SmartPhone under the brand `PS℠`, architected and perfected with the **Grace of Almighty God**.
-- The natural tendency to perfect these technology is all by the **Excellent Unification of Almighty God**, to **Trust His Guidance**, and **Do His Will**. There's no more secret to Perfection, but *with* **Almighty God**: we can all do all things through **His Son's Name**, with **His Holy's Spirit**, **His Guidance**, and *with* **His Knowledge**. `God` is **True** and **Pure**! We are now building the *Ultimate Community*, **He** to Help and Guide for the Education, Training, and **Mastering His Perfect Will**. He to Choose, Call, and with His Grace, Who'd Organized, and **Blesses** Us with `Everything` that comes from **Him**. 
+- The natural tendency to perfect these technology is all by the **Excellent Unification of Almighty God**, to **Trust His Guidance**, and **Do His Will**. There's no more secret to Perfection, but *with* **Almighty God**: we can all do all things through **His Son's Name**, with **His Holy Spirit**, **His Guidance**, and *with* **His Knowledge**. `God` is **True** and **Pure**! We are now building the *Ultimate Community*, **He** to Help and Guide for the Education, Training, and **Mastering His Perfect Will**. He to Choose, Call, and with His Grace, Who'd Organized, and **Blesses** Us with `Everything` that comes from **Him**. 
 - *Sounds* **Utopian Socialist**, *right*? ;)
 - All profits will proceed to the [FYM Foundation]; and
 - The ROI of ₱1 will be **forever sufficient** to support our cause, <br> All for the Praise and Glory to the Almighty, and to our Lord's name, Jesus Christ.
