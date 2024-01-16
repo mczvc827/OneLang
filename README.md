@@ -598,7 +598,7 @@ Before it was revolutionized!
 
 - Socials, (or *Socialites*): however they may say it! we are also have a social standing to the Society, on the wave of *Technological Facts* and its **Mediums**, a popular culture: by **empowerment**; 
 or by *humiliation*, because of mediocrity or *whatever* the reason(s): a *branded humans* or *mortified soul* as it is, because of these Social Contracts and stagnant Social Standings: 
-still humiliating Us as it is to not have *these kinds* a social life!
+still humiliating—Us, as it is—to not have *these kinds* a social life!
   - https://www.psychologytoday.com/us/blog/hide-and-seek/201408/the-psychology-humiliation
 
 ###  Introducing `Network.Careers`
@@ -636,7 +636,7 @@ because we had an **Awesome God**—you can **rely on**, which was the **Almight
 
 **We are all created equal**, but *revolutionaries*! 🇵🇭🕍🕎🇮🇹
 
-It's *not only easy* to do **things you love** and *wants*,
+It's *not only easy* to do **things you love** and *want*,
 but also—`it was becoming true and possible`!
 Never waver your **dream**s **again**, not anymore—`never ever give up on your dreams`!
 > Do it *now* with passion, providing *you* **your needs**:
