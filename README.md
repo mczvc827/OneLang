@@ -656,7 +656,7 @@ and is only reserved, for now, for the following:
 1. Medical Technology software, and
 2. Business Software of Tools or Platforms
 
-- ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
+## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
 - All are under **Vanguard Licensing** ℠
 - *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using `Eclipse license` format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, technicians, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
