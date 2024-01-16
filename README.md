@@ -5,15 +5,15 @@
 ## Canadian Truckers, DAD System and University, Bayanihan College, Network Careers, `EGG Co.`
 ![Egg Co.](./1m8kd07.jpg)
 ### Company Websites
-`Canada.us` `Dads.net` `Bayanihan.Learning` `Network.Careers` `Egg.co`
+> `Canada.us` `Dads.net` `Bayanihan.Learning` `Network.Careers` `Egg.co`
 
-`mczvc`: `[Meldencio Czarlemagne Corrales]` [Egg Co.]
+### `mczvc`: `[Meldencio Czarlemagne Corrales]` [`Egg Co.`]
 - [Bayanihan Learning](#bayanihan-learning-and-college) — One Language, One Learning, *at a time*.
 
 ## Partners in Business
 ### `Ryan` and `Gem Noces`
-* Vergie’s Restaurant
-* DAD’s Gym
+* `Vergie’s Restaurant`
+* `DAD’s Gym`
 * ...
 
 ### `Johnella Kyle San Juan`
@@ -30,7 +30,7 @@
 ## Changing lives through `God`’s Words.
 ### We are encouraging you:
 to a nearest or inside `His House` and `Church` for a `Worship Services`, because this is the **Truth**, **The Kingdom** we seek, and the **Greatest Membership** you will ever receive. Through *it* We will be saved, come the day of `Judgement`.
-- (Genesis 12:[1-2])
+- **(Genesis 12:[1-2])**
 
 ```
 Now the LORD said to Abram, 
@@ -52,7 +52,7 @@ And make your name great;
 And so you shall be a blessing;
 ```
 
-- (Genesis 28:[16-17])
+- **(Genesis 28:[16-17])**
 
 ``` 
 Then Jacob awoke from his sleep and said, 
@@ -63,7 +63,7 @@ This is none other than the house of God,
 and this is the gate of heaven.”
 ``` 
 
-- (2 Cor. 4:[1-4], NASB): Paul’s Apostolic Ministry, [:5-6]:
+- **(2 Cor. 4:[1-4], NASB): Paul’s Apostolic Ministry, [:5-6]**:
 
 ``` 
 For we do not preach ourselves but Christ Jesus as Lord, 
@@ -74,7 +74,7 @@ is the One who has shone in our hearts to give the light of
 the knowledge of the glory of God in the face of Christ. 
 ```
 
-- (Philippians 1:[8-11]: Thanksgiving, NASB)
+- **(Philippians 1:[8-11]: Thanksgiving, NASB)**
 
 ``` 
 For God is my witness, how I long for you all
@@ -91,7 +91,7 @@ to the glory and praise of God.
 # Central Temple
 
 [![Central Temple on 12 Jun. 2018](./IMG_20221205_140310_753.jpg)](https://www.instagram.com/p/ClxocDFBepY/)
-## (1 King 6:12)
+## ✡️ (1 King 6:12) 
 
 ```
 “Concerning this house which you are building,
@@ -118,7 +118,7 @@ to David your father.
 - Public education refers to the **Society**’s efforts to ensure that all **Canadians** are **"Water Smart."**  
 
 ### Partnerships 
-The Society works in co-operation and consultation with national, provincial, regional, and community agencies, governments, and organizations in the areas of prevention, education, safe safety. 
+`The Society` works in co-operation and consultation with national, provincial, regional, and community agencies, governments, and organizations in the areas of prevention, education, safe safety. 
 
 ### Consultation 
 `The Society` provides advice to education, recreation, health, and government agencies that oversee aquatic recreation in `Canada`. In addition, **Society** representatives act as expert witnesses at coroner’s inquests and in court cases.
@@ -126,9 +126,9 @@ The Society works in co-operation and consultation with national, provincial, re
 # Subsidiaries under Egg Co.
 ## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
-### - [CV] [:docx](./mczvc/CV%20(1-10-2024_1245).docx) [:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf)
-### - [Resume]
-<img src='./mczvc/Screenshot_20240110-123236.png' width='720px'/>
+- ### [CV] > ([:docx](./mczvc/CV%20(1-10-2024_1245).docx)) | ([:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf))
+- ### [Resume]
+<img src='./mczvc/Screenshot_20240110-123236.png' width='720px' alt="mczvc Resume"/>
 
 ### HQs: 4-CAs
 - 2 in the `Philippines`,
@@ -145,7 +145,7 @@ _Vanguard_ leads a `Bayanihan Learning`, a partner and **Forever Dear** for ever
 - Is a **Software Engineers** and **Software Architects** that is also a `CBI` or `Christian Brotherhood International`
 
 
-(Exodus 8:[1-2], NASB)
+**(Exodus 8:[1-2], NASB)**
 
 ```
 Then the LORD said to Moses, 
@@ -161,7 +161,7 @@ I will smite your whole territory with frogs.
 
 ### Royal Knighthood of `Vanguard`
 
-(Genesis 27:40, NASB)
+**(Genesis 27:40, NASB)**
 
 ```
 “And by your sword you shall live, 
@@ -173,7 +173,7 @@ But it shall come about when you become restless,
 That you shall break his yoke from your neck.”
 ```
 
-[New English Translation]
+**[New English Translation]**
 
 ```
 You will live by your sword 
@@ -186,9 +186,10 @@ tear off his yoke from your neck.”
 - **Veras, LLC**: Law Firm under **Bar** #`117571`, U.S. District Court, Southern District of [Florida]
 - **MC `PAF & RAF`** Security Services & Consultancy
 - **Corrales**: a **Blue Ocean** Institute, headquartered in 3-CAs
-- **mczvc** is an Institute, offering `Software Architecture`, `Engineering and Technology`, especializing for **Fitness Equipments and Medical Devices**, and Revolutionized the **Cybersecurity**; in partnership with `Accenture`, `MIT`, `Department of Homeland Security`, and `Allied Health`, *respectively*) and a **School for Business and Management**, specialized from `Harvard Business School`
+- **mczvc** is an Institute, offering `Software Architecture`, `Engineering and Technology`, specializing for **Fitness Equipments and Medical Devices**, and Revolutionized the **Cybersecurity**; in partnership with `Accenture`, `MIT`, `Department of Homeland Security`, and `Allied Health`, *respectively*) 
+  - and a **School for Business and Management**, specialized from `Harvard Business School`
 
-Branch name: DAD System and University, [DADSU]
+Branch name: DAD System and University, [**DADSU**]
 
 # DAD University
 <details>
@@ -347,14 +348,14 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 ### Year 2 (Fall Semester)
 
-<details><summary>(3) CS 234 Database and Web System Development</summary>
+- <details><summary>(3) CS 234 Database and Web System Development</summary>
 
     Database and Web System Development
     
     An introduction to multi-tier software systems and database programming and their application to web-based information storage and retrieval systems.
 </details>
  
->  (3-4) MATH elective
+- (3-4) MATH elective
 
 > 6-7 – Total Credits
 
@@ -379,16 +380,16 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 ### Year 2 (Spring Semester)
 
-<details><summary>(3) CS 286 Intro to Computer Organization & Architecture</summary>
+- <details><summary>(3) CS 286 Intro to Computer Organization & Architecture</summary>
  
     Introduction to Computer Organization and Architecture
     
     Processor, memory, I/O structure of computer systems, data representations, instruction set architecture of typical processor as hardware/software interface, processor implementation, performance evaluation methods.
  </details>
 
-* (3) MATH Elective
+- (3) MATH Elective
 
-<details><summary>(3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)</summary>
+- <details><summary>(3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)</summary>
 
     Statistics 
     
@@ -398,6 +399,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
     
     Descriptive statistics; basic probability rules and distributions; inferences for means; variances and proportions; design and analysis of experiments; and regression analysis.
 </details>
+
 > 9-10 – Total Credits
 
 #### Textbooks:
@@ -436,26 +438,28 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 ### Year 3 (Spring Semester)
 
-<details><summary>(3) CS 325 Software Engineering</summary>
+- <details><summary>(3) CS 325 Software Engineering</summary>
     
     Software Engineering
     
     Introduction to the concepts and techniques required to develop complex software systems and manage software projects. Emphasis on object-oriented methodologies and modeling via UML.
 </details>
-<details><summary>(3) CS 447 Networks and Data Communications</summary>
+
+- <details><summary>(3) CS 447 Networks and Data Communications</summary>
     
     Networks and Data Communications
     
     Concepts of networks and data communications. Networking protocols and architecture; data encoding and transmission; network management; and distributed applications.
 </details>
-<details><summary>(3) CS 330 Programming Languages</summary>
+
+- <details><summary>(3) CS 330 Programming Languages</summary>
     
     Programming Languages
     
     Design, appropriateness and linguistics issues associated with different programming languages and programming paradigms. Covers syntax and semantics of languages, including BNF Notation.
 </details>
 
-> (3) Breadth Life Science (BLS)
+- (3) Breadth Life Science (BLS)
 
 > 12 – Total Credits
 
@@ -508,13 +512,12 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 </details>
 
 
-
 # Bayanihan Foundation ℠
 ## _(Bayan Ni Juan)_ 
 `Bayanihan Foundation` is a collaboration of the following foundations: MC, JK, RG, GB, Roberto Sr., CJ, CA; PC-SJ-NC-VB-DD-DC-GP-GC Groups, and **mczvc** Institute, all under in One Name.
 
 # INC Giving
-![image](https://github.com/mczvc-biomew/OneLang/assets/98096247/c05331f1-3580-46b2-9801-9bf781423f36)
+[![image](https://github.com/mczvc-biomew/OneLang/assets/98096247/c05331f1-3580-46b2-9801-9bf781423f36)](https://incgiving.org/)
 
 # Bayanihan Learning and College
 - ![Forever Tuition](https://img.shields.io/badge/₱-1-red.svg) forever tuition! No hidden charge(s). Transparent and flat rate for all `Filipino`(s). A two-semester college education.
@@ -524,7 +527,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 - A much higher body of commission on education will be needed in the future to guarantee and protect academic freedom for continuing intellectual growth, advancement of learning and research, development for responsible and effective leadership, education of high level professionals, and enrichment of historical and cultural heritages. This is not to disrupt every (body or) commission that regulates the higher education, but to honor and preserve the dignity of every professional educators, through different and separate model of recompensation, a system that is guaranteed to liberate everyone in a balanced and stable ecosystem of education financing through the continuous effort and evaluation of every members of the committee. Learning will never be fun! nor continuous; Nor prosperous! Are you dreaming of all of these three, abudantly? `Remember`: *Everything* is **possible** with the **Almighty**! And all of Good things comes from **God**! Abudantly. **Always** and **Forever**.
 - We value these 6-major-character competencies to everyone: effort, value, skills, knowledge, wisdom, and abilities.
 
-### [‭‭Proverbs‬ ‭4:5‭-‬9‬, ‭NET‬‬]
+### **[Proverbs 4:5-9, NET]**
 
 ```
 Acquire wisdom, acquire understanding; 
@@ -543,48 +546,116 @@ She will place a fair garland on your head;
 she will bestow a beautiful crown on you.”
 ```
 
-Branch name: Network Careers — A value-based work, network and platform for careers [nc]
+Branch name: Network Careers — A value-based work, network and platform for careers [**nc**]
 # Network.Careers ![Network Careers](https://img.shields.io/badge/Network-Careers-blue?style=flat-square&logoColor=blue&label=Network&labelColor=blue&color=white)
 
-A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by hourly rate) of a worker or employee, that still occupies _their_ time and obligates to work only on one job or project at a time; by (or with) a motto: 
-[**A**]lways [**S**]uceeding ™ — with this, we are **empowering** the _freelancing mindset_ before it was revolutionized.
-With our Instute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work endlessly, thus earning endlessly — or one Work or One Project at a time, thus saving effort and *probably* time, preserving and upskilling your **value** — your **skills**, but now equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
+A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by an hourly rate) of a worker or employee that still occupies _their_ time, and obligates them to work only on an old way of time-based kind of modelled work, 
+which rates them poorly to do one job or project, one task at a time, locking them to a poor-waged situations of tedious and mundane life; those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
+thus, with, by, (or with) the motto: 
+[**A**]lways [**S**]uceeding ™, instead, we are proving you your **true values** you had before, **be ready to engage**, as we will showcase you to the whole world of — fun, memorable, and exciting kind of interaction (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
+thus, becoming and valuing: yes! your **happiness** *you truly seek*, and your **succeeding values**—we are about to empower,
+*so stop hiding** *it*! It's now time, and it's not late, or *later than ever* you will *ever*, **truly free**; `be free, now and then`!
 
-It's time to learn, apply, and lead courageously and victoriously, or work collaboratively, with the **honor of excellency** on every aspect of your career!
+— to Us you are **truly empowered** with this kind of reworked system; 
+we are **empowering** the people's _freelancing kind of mindset_ when it comes to working, because they always wanting, 
+and wanted, to value the power to interact and to meet their true needs, and wants, with their found purpose—new and and hardly knew;
 
-We had also revolutionized the **Management Aspect** of *Every Known Career*(s), not just for managing, but for the growth and development of _**every** team_. Leading your new way to the paved industries since the last `Industrial Revolution` aka “The Intelligence Revolution”. Because we had an **Awesome God**, which was the **Almighty One**, **Who** guides us to every deal of technologies, made by subversive man! We are all created equal, but revolutionaries! 🇵🇭🕍🇮🇹
+Changing the world—not the truth, the **truth about Us**: of our `values`, of our `capabilities`, and of our `essence` **to the world**!
 
-[1 Timothy 1:17, New Living Translation]
+To every one of Us, we are all **truly essential** to the **Almighty One**.
+
+And so, we had also found our **true purpose**, to *serve and protect* the `values` **of every one of us**!
+
+Techs, (or *technological*[**s**]): as they may say it; we are improving our kind, way of life, not just the system of industrialization!
+We are about to revolutionize the word `revolutionary`, and all the aspect of workings, your specialized needs, and your social life, ahead!
+Before it was revolutionized!
+
+Socials, (or *Socialites*): however they may say it! we are also have a social standing to the Society, on the wave of *Technological Facts* and its **Mediums**, a popular culture: by **empowerment**; 
+or by *humiliation*, because of mediocrity or *whatever* the reason(s): a *branded humans* or *mortified soul* as it is, because of these Social Contracts and stagnant Social Standings: 
+still humiliating Us as it is to not have *these kinds* a social life!
+https://www.psychologytoday.com/us/blog/hide-and-seek/201408/the-psychology-humiliation
+
+We are now here to empower you! — You mattered, anyways.
+
+With our Institute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work professionally or endlessly, thus earning also endlessly with (someone you can trust), or by a `Smart Move`™, done and earn with your kind of Profession(s), by doing One Work or One Project, at a time, 
+thus saving effort and *probably* time, preserving and upskilling your **value** — your **skills**, 
+with the redefined work contract(s): 
+you are now, but—now equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
+
+Thus, you are *not also* **working Smart**, but engaging **Smartly**℠ also with our revolutionized, **Smart Contract for the People**™, naturally, it's **By Design**™.  
+
+It's time to **learn, apply, and lead** *courageously* and *victoriously*, or **work collaboratively**, with Us — because We had predefined our **Every Smart Environment**℠, 
+and with You — with an **honor of excellency** on every aspect of your career!
+
+We had also revolutionized the **Management Aspect** of *Every Known Career*(s), not just for managing, but it's for the **growth and development** of _**every** team_ and its **members**.
+You can now work **freely**, with your predefined **dignity** and **honor**, to showcase your **new values**, **comfortably** and *with easiness*!
+Now, that's an **integrity**.
+
+You have *now* expanded your horizon, horizontally and vertically, with **your natural talents**, or by practicing and exercising it, for every **best opportunities** we had **prepared for you**;
+you: to **Do It**, and We: **to provide** it, because with us—you are **simply the best**.
+
+Leading your new way to the paved industries since the last `Industrial Revolution` aka *“The Intelligence Revolution”*.
+`Forget everything that hinders you`:
+because we had an **Awesome God**, which was the **Almighty One**, **Who** guides us to every deal of technologies, done by *subversive* *men*! 
+
+**We are all created equal**, but *revolutionaries*! 🇵🇭🕍🕎🇮🇹
+
+It's not only easy to do things you love and wants,
+but also—it was becoming true and possible!
+Never waver your dreams, not anymore—`never ever give up on your dreams`!
+> Do it *now* with passion, providing your needs:
+for **your family and friends**!
+> *Don't* forget that:
+> ✡️ We are **simply the best**.
+
+## All for the glory of `Almighty God`.
+
+**[1 Timothy 1:17, New Living Translation]**
 
 ```
-All honor and glory to God forever and ever! 
+All honor and glory to God forever and ever!
+
 He is the eternal King, 
+
 the unseen one who never dies; 
+
 he alone is God. Amen.
 ```
 
 ### We are `Almighty God’s People`, focused on `People Helping People`
-Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem, as a **solution**, we had made models for business (consumers, producers), financing, managing (the people — inside/internal and outside/external, the employment agencies, and the intermediaries — and the project), built the new but effective processes, of old but still gold, which are maximized to its full usefulness for improve or to increase productivity, by `System of Performance ℠`, a dual gold efficiency, (compare with the old style of _double-time efficiency_; I am here to emphasize the value + effectiveness of a work in a project); and by crafting every single needed tools — for every aspect of business — by the **Excellent Engineers** and **Prime Architects** — providing the solutions to every modelling problem of its users, systematically and with ease-of-use. Done with `Agility by Design ℠` by the **Royal Developers** and **Agile HR**, to manage the project, prime to its **People**, or the **happy customers** and its **producers**, equally!
-We are a `Royal Club of every Professionals`, to do the work, because we value the **People**, but we value more our **Family**, and mostly, our **One True God**, above all, in serving one right.
+Aside from revolutionizing the `HR` workforce, picked the best Economical Systems for a certain economical problem—as a **solution**, 
+we had made models for: `business' (consumers, producers)`, financing, managing 
+(the people — inside/internal and outside/external, the employment agencies, and the intermediaries — and the project), 
+built the new but effective processes, of old but still gold, which are all maximized to its full usefulness for improve 
+and/or to increase productivity—by `System of Performance`℠, a dual gold efficiency, 
+(compare with the old style of _double-time efficiency_; I am here to emphasize the **value** + **effectiveness** of a work in a project); 
+and by crafting every single needed tools — for every aspect of business — by the **Excellent Engineers** and 
+**Prime Architects** — providing the solutions to every modelling problem of its users, 
+systematically and with ease-of-use. Done with `Agility by Design ℠` by the **Royal Developers** and **Agile HR**, 
+to manage the project, prime to its **People**, or the **happy customers** and its **producers**, equally!
+We are a `Royal Club of every Professionals`, to do the work, because we value the **People**, 
+but we value more our **Family**, and mostly, our **One True God**, above all, in serving one right.
 
 # `Royal Club`™ Machines, Equipments, and Technology
-We are the *Next* Silicon Valley! A Century and a Score Four! Because we love Tacos and Waffles!
+**We are** the *Next* Silicon Valley! A Century and a Score Four! Because we love Tacos and Waffles!
 
-- For business, an MBA devices (not just machines) as *technological* tool would suffice!
-- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — revolutionizing the **security and safety**, and the *New* **Tele-health**, of **Medical equipments and devices**.
+- For business, an MBA devices (not just machines) as *technological* tool would be suffice!
+- For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — 
+- revolutionizing the **security and safety**, and the *New* **Tele-health**, of **Medical equipments and devices**.
 - A Century and Score, we are now in the field of Digital Electronics, Medical frontier of *non-invasive procedures*, and mobility — fitness and wellness of everyone!
 - We Are Bayanihan!
 
 # Bayanihan Software
-Bayanihan Software is subsidiary and trademark of parent company, **Egg Co.**, to develop, maintain, and is only reserved, for now, for the following:
+Bayanihan Software is subsidiary and trademark of parent company, **Egg Co.**, to develop, maintain, 
+and is only reserved, for now, for the following:
 
 1. Medical Technology software, and
 2. Business Software of Tools or Platforms
 
-## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
+- ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
 - All are under **Vanguard Licensing** ℠
-- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using Eclipse license format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, technicians, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
+- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using `Eclipse license` format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, technicians, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
 - Licensing and Copyright preservation uses **Standard Software Licensing** for granting permission, under your preferred license provider, in public or private manner, to distribute the source and/or software(s).
 - Patenting is encouraged to do *under* [Goldstein Patent Law], which states:
 
@@ -661,7 +732,7 @@ let Us all unite for one Cause
 
 [New English Translation]: https://bible.com/bible/107/gen.27.40.NET
 
-[‭‭Proverbs‬ ‭4:5‭-‬9‬, ‭NET‬‬]: https://bible.com/bible/107/pro.4.5.NET
+[Proverbs 4:5-9, NET]: https://bible.com/bible/107/pro.4.5.NET
 
 [Goldstein Patent Law]: https://www.goldsteinpatentlaw.com/how-to-get-medical-patent/
 
