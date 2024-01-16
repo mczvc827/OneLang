@@ -645,8 +645,8 @@ but we value more our **Family**, and mostly, our **One True God**, above all, i
 
 - For business, an MBA devices (not just machines) as *technological* tool would be suffice!
 - For Medical Devices, we are now _Uprising with the Tron_ ℠ — [we do not delay] — 
-- revolutionizing the **security and safety**, and the *New* **Tele-health**, of **Medical equipments and devices**.
-- A Century and Score, we are now in the field of Digital Electronics, Medical frontier of *non-invasive procedures*, and mobility — fitness and wellness of everyone!
+  - revolutionizing the **security and safety**, and the *New* **Tele-health**, of **Medical equipments and devices**.
+- A Century and Score, we are now in the field of Digital Electronics, Medical Frontier of *non-invasive procedures*, and mobility—fitness and wellness of everyone!
 - We Are Bayanihan!
 
 # Bayanihan Software
