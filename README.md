@@ -226,77 +226,147 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 </details>
 
 # Undergraduate Catalog 2024
+
 <details>
 <summary>Computer Science (BS)</summary>
 
-I'm interested!
+> I'm interested!
 
 ## Sample Curriculum for the Bachelor of Science in Computer Science
 
 ### Year 1 (Fall Semester)
 
-* (3) CS 111 Computer Science Principles (BICS)
-* (3) CS 140 Introduction to Computing I
-* (3) ENG 101 English Composition I
-* (5) MATH 150 Calculus I (FQR)
-* (3) ACS 103 Interpersonal Communication Skills (Choose elective of either: [A]llied Health, or [B]usiness Finance)
+<details><summary>(3) CS 111 Computer Science Principles (BICS)</summary>
 
-17 – Total Credits
+    Concepts of Computer Science
+
+    Broad view of computer science: hardware; operating systems; software design and development; algorithms; networks; and applications.
+</details>
+
+<details><summary>(3) CS 140 Introduction to Computing I</summary>
+  
+    Introduction to Computing I 
+    
+    Programming course that assumes basic computer literacy. Introduces a high-level programming language and basic problem solving.
+</details>
+ 
+<details><summary>(3) ENG 101 English Composition I</summary>
+
+    English Composition I
+    
+    Instruction and practice in analyzing and composing the academic expository essay.
+</details>
+ 
+<details><summary>(5) MATH 150 Calculus I (FQR)</summary>
+
+    Calculus I 
+    
+    Fundamental concepts of calculus: limits, continuity, and derivatives. Mean Value Theorem of Calculus, integration techniques, and applications.
+</details>
+
+<details><summary>(3) ACS 103 Interpersonal Communication Skills (Choose elective of either: [A]llied Health, or [B]usiness Finance)</summary>
+
+    Interpersonal Communication Skills
+    
+    Principles and practices of oral communication emphasizing message formation and delivery; listening; perception; awareness of verbal and nonverbal codes; and managing conflict.
+</details>
+
+> 17 – Total Credits
 
 #### Textbooks:
 
 1. Computer Science Principles: The Foundational Concepts of Computer Science
-2. Introduction to Computation in Physical Sciences: Interactive Computing and Visualization with Python™
+2. Introduction to Computation in Physical Sciences: Interactive Computing and Visualization with Python
      - This book provides a practical and comprehensive introduction to computational problem solving from the viewpoints of practitioners in both academic and industrial worlds.
 3. A Student's Introduction to English Grammar
     - This groundbreaking undergraduate textbook on modern Standard English grammar is the first to be based on the revolutionary advances of the authors' previous work, The Cambridge Grammar of the English Language (2002). The text is intended for students in colleges or universities who have little or no previous background in grammar, and presupposes no linguistics. It contains exercises, and will provide a basis for introductions to grammar and courses on the structure of English, not only in linguistics departments but also in English language and literature departments and schools of education.
-4. Calculus [12e. ed.]
+4. Calculus [12e. ed.]
 5. (a) Interpersonal Relationships Professional Communication Skills for Canadian Nurses, or (b) People-Centric Skills: Interpersonal and Communication Skills for Financial Professionals
 
 ### Year 1 (Spring Semester)
 
-* (3) CS 150 Introduction to Computing II
-* (3) ENG 102 English Composition II
-* (3) RA 101 Reasoning & Argumentation (Choose elective between [a] and [b])
-* (5) MATH 152 Calculus II (BPS)
-* (3) MATH 224 or MATH 223 Discrete Mathematics (BPS)
+<details><summary>(3) CS 150 Introduction to Computing II</summary>
 
-17 – Total Credits
+    Introduction to Computing II 
+    
+    Algorithmic problem solving with a modern programming language. Language syntax; basic design methods; algorithms; and abstraction.
+</details>
+ 
+<details><summary>(3) ENG 102 English Composition II</summary>
+    
+    English Composition II
+    
+    Builds upon the analytical and writing skills developed in 101 with emphasis on argumentation and critical synthesis of information based on research.
+</details>
+ 
+<details><summary>(3) RA 101 Reasoning & Argumentation (Choose elective between [a] and [b])</summary>
+
+    Reasoning and Argumentation
+    
+    Students will learn to analyze, critically evaluate, and construct arguments. Topics include organizing information, detecting fallacies, analyzing meaning, and using effective methods of argumentation.
+ </details>
+
+<details><summary>(5) MATH 152 Calculus II (BPS)</summary>
+    
+    Calculus II 
+    
+    Applications of integration; techniques of integration; improper integrals; polar coordinates; infinite sequences and series; and Taylor's theorem.
+</details>
+
+<details><summary>(3) MATH 224 or MATH 223 Discrete Mathematics (BPS)</summary>
+
+    Discrete Mathematics 
+    
+    Mathematical concepts and techniques essential to computer science: logic; sets; algorithms; methods of proof; induction and recursion; simple counting techniques; and graph theory. Does not count toward a major in mathematics.
+    
+    Logic & Mathematical Reasoning
+    
+    Concepts and techniques essential to advanced mathematics; logic, methods of proof, sets, relations, induction, functions, cardinality, combinatorics, and graph theory.
+</details>
+
+> 17 – Total Credits
 
 #### Textbooks/Workbooks:
 
 1. Introduction to Bioinformatics and Clinical Scientific Computing
 2. AP English Literature and Composition Premium, 2024: 8 Practice Tests + Comprehensive Review + Online Practice
      - Barron’s AP English Literature and Composition, Premium, 2024, includes in-depth content review and online practice. It’s the only book you’ll need to be prepared for exam day.
-3. [a] Experimental Philosophy of Language: Perspectives, Methods, and Prospects, or [b] Islamic Disputation Theory: The Uses & Rules of Argument in Medieval Islam
+3. [a] Experimental Philosophy of Language: Perspectives, Methods, and Prospects, or <br>[b] Islamic Disputation Theory: The Uses & Rules of Argument in Medieval Islam
    - This book charts the evolution of Islamic dialectical theory (jadal) over a four-hundred year period. It includes an extensive study of the development of methods of disputation in Islamic theology (kalām) and jurisprudence (uṣūl al-fiqh) from the tenth through the fourteenth centuries. The author uses the theoretical writings of Islamic theologians, jurists, and philosophers to describe the concept. Overall, this investigation looks at the extent to which the development of Islamic modes of disputation is rooted in Aristotle and the classical tradition.
+   - (plus) The Practice of Argumentation: Effective Reasoning in Communication (Critical Reasoning and Argumentation)
 4. Calculus and Linear Algebra: Fundamentals and Applications
     - This textbook offers a comprehensive coverage of the fundamentals of calculus, linear algebra and analytic geometry. Intended for bachelor’s students in science, engineering, architecture, economics, the presentation is self-contained, and supported by numerous graphs, to facilitate visualization and also to stimulate readers’ intuition. The proofs of the theorems are rigorous, yet presented in straightforward and comprehensive way. With a good balance between algebra, geometry and analysis, this book guides readers to apply the theory to solve differential equations. Many problems and solved exercises are included.
-    - (plus) The Practice of Argumentation: Effective Reasoning in Communication (Critical Reasoning and Argumentation)
 5. Discrete Math I, II, III
-    -  Discrete Mathematics with Applications [5 ed.], Cengage Learning
+    - Discrete Mathematics with Applications [5 ed.], Cengage Learning
     - Discrete Mathematics with Coding
     - Connecting Discrete Mathematics and Computer Science
 
 ### Year 2 (Fall Semester)
 
-* (3) CS 234 Database and Web System Development
-* (3-4) MATH elective
+<details><summary>(3) CS 234 Database and Web System Development</summary>
 
-6-7 – Total Credits
+    Database and Web System Development
+    
+    An introduction to multi-tier software systems and database programming and their application to web-based information storage and retrieval systems.
+</details>
+ 
+>  (3-4) MATH elective
+
+> 6-7 – Total Credits
 
 #### Textbooks:
 1. Enterprise System Architectures: Building Client Server and Web Based Systems
-    - In `CLP`, you will get a wide range of topics and certain recommendations, when you enter in our `Consultation Program`, for example, we had received this **new** technological *tool* called `Strapi`, if you are fond to JS ecosystem:  Designing Web APIs with Strapi: Get started with the Strapi headless CMS by building a complete learning management system API
+    - In `CLP`, you will get a wide range of topics and certain recommendations, when you enter in our `Consultation Program`, for example, we had received this **new** technological *tool* called `Strapi`, if you are fond to JS ecosystem: 
+        - Designing Web APIs with Strapi: Get started with the Strapi headless CMS by building a complete learning management system API
 2. Jаvascript Programming: 3 In 1 Security Design, Expressions And Web Development
-3. In `CLP`, there are so many *new* and **relevant** technologies (language, frameworks, ecosystems libraries, tools, end practices), here's the examples of *new* and **robust** Full-stack of Web Development:
+3. In `CLP`, there are so many *new* and **relevant** technologies (programming languages, frameworks, libraries with well-documented ecosystem, programming tools, and practices), here are the examples of *new* and **robust** `full-stack` of Web Development:
     - Rust Web Development, Manning Publications
     - PHP 8 Basics. For Programming and Web Development
-    - Learn React with TypeScript: A beginner's guide to reactive web development with React 18 and TypeScript, [2 ed.]
+    - Learn React with TypeScript: A beginner's guide to reactive web development with React 18 and TypeScript, [2 ed.]
 4. Architectural Framework for Web Development and Micro Distributed Applications
 5. Applied Mathematics for Database Professionals +
-    - Database Design Using Entity-Relationship Diagrams [3 ed.]
-    - Database Systems. A Pragmatic Approach [3 ed.]
+    - Database Design Using Entity-Relationship Diagrams [3 ed.]
+    - Database Systems. A Pragmatic Approach [3 ed.]
     - `CLP`, Azure Database Services: Easy and Understandable Guide for Beginners
     - `CLP`, Mastering PostgreSQL 15: Advanced techniques to build and manage scalable, reliable, and fault-tolerant database applications
     - `CLP`, AWS Certified Database. Study Guide. Specialty (DBS- C01) Exam
@@ -305,41 +375,87 @@ I'm interested!
 
 ### Year 2 (Spring Semester)
 
-* (3) CS 286 Intro to Computer Organization & Architecture
-* (3) MATH Elective
-* (3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)
+<details><summary>(3) CS 286 Intro to Computer Organization & Architecture</summary>
+ 
+    Introduction to Computer Organization and Architecture
+    
+    Processor, memory, I/O structure of computer systems, data representations, instruction set architecture of typical processor as hardware/software interface, processor implementation, performance evaluation methods.
+ </details>
 
- 9-10 – Total Credits
+* (3) MATH Elective
+
+<details><summary>(3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)</summary>
+
+    Statistics 
+    
+    Summarizing data, including distributions, change and growth, relationships. Basics of survey design and experimental design. Inferential statistics, including confidence intervals and hypothesis testing. 
+
+    Statistics For Applications
+    
+    Descriptive statistics; basic probability rules and distributions; inferences for means; variances and proportions; design and analysis of experiments; and regression analysis.
+</details>
+> 9-10 – Total Credits
 
 #### Textbooks:
 
-1. Computer Organization And Architecture. Designing For Performance [11 Global Edition]
-2. Computer Organization [18 ed.]
-3. Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers [2 ed.]
+1. Computer Organization And Architecture. Designing For Performance [11 Global Edition]
+2. Computer Organization [18 ed.]
+3. Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers [2 ed.]
 4. `CLP`:
-    -  Computer Organization and Design MIPS Edition: The Hardware/Software Interface [6 ed.]
+    - Computer Organization and Design MIPS Edition: The Hardware/Software Interface [6 ed.]
     - Computer Architecture and Organization: Fundamentals and Architecture Security
-    - Student Study Guide With IBM® SPSS® Workbook for Research Methods, Statistics, and Applications [3 ed.]
-5. Research Methods, Statistics, and Applications [Paperback ed.]
+    - Student Study Guide With IBM® SPSS® Workbook for Research Methods, Statistics, and Applications [3 ed.]
+5. Research Methods, Statistics, and Applications [Paperback ed.]
 
 ### Year 3 (Fall Semester)
 
-* (3) CS 360 Ethical and Secure Computing
-* (3) CS 340 Algorithms and Data Structures
-* (3) CS 314 Operating Systems
+<details><summary>(3) CS 360 Ethical and Secure Computing</summary>
 
-9 – Total Credits
+    Ethical and Social Implications of Computing
+    
+    An introduction to the social, ethical, legal, and professional contexts in which software systems are developed and utilized.
+</details>
+<details><summary>(3) CS 340 Algorithms and Data Structures</summary>
+
+    Algorithms and Data Structures
+    
+    Considers appropriate choice of data structures, comparisons of algorithms, recursive algorithms, complexity, and introduction to parallel algorithms.
+ </details>
+<details><summary>(3) CS 314 Operating Systems</summary>
+
+    Operating Systems
+    
+    Processes, threads, and synchronization; I/O and memory management at the hardware and OS levels; file systems; and implementation of basic OS abstractions, concurrent programming. 
+</details>
+
+> 9 – Total Credits
 
 ### Year 3 (Spring Semester)
 
-* (3) CS 325 Software Engineering
-* (3) CS 447 Networks and Data Communications
-* (3) CS 330 Programming Languages
-* (3) Breadth Life Science (BLS)
+<details><summary>(3) CS 325 Software Engineering</summary>
+    
+    Software Engineering
+    
+    Introduction to the concepts and techniques required to develop complex software systems and manage software projects. Emphasis on object-oriented methodologies and modeling via UML.
+</details>
+<details><summary>(3) CS 447 Networks and Data Communications</summary>
+    
+    Networks and Data Communications
+    
+    Concepts of networks and data communications. Networking protocols and architecture; data encoding and transmission; network management; and distributed applications.
+</details>
+<details><summary>(3) CS 330 Programming Languages</summary>
+    
+    Programming Languages
+    
+    Design, appropriateness and linguistics issues associated with different programming languages and programming paradigms. Covers syntax and semantics of languages, including BNF Notation.
+</details>
 
-12 – Total Credits
+> (3) Breadth Life Science (BLS)
 
-#### Workbooks:
+> 12 – Total Credits
+
+#### Textbooks:
 
 1. Software Engineering for Data Scientists
     - This practical book bridges the gap between data science and software engineering, clearly explaining how to apply the best practices from software engineering to data science.
@@ -348,37 +464,45 @@ I'm interested!
     - The authors explore various aspects of information processing for the design of service systems, efficient management, secure storage, and transmission.
 
 3. Computer science to the Point: Computer Science for Life Sciences Students and Other Non-Computer Scientists
-     - This textbook is aimed at students of non-specialist courses with computer science components. Special emphasis is placed on the so-called life sciences, such as medical technology, rescue engineering, biotechnology, environmental engineering or process engineering. 
+     - This textbook is aimed at students of non-specialist courses with computer science components. Special emphasis is placed on the so-called life sciences, such as medical technology, rescue engineering, biotechnology, environmental engineering or process engineering.
 
-#### Year 4 (Fall Semester)
+4. MATLAB for Engineering and the Life Sciences [2 ed.]
+    - This book is a self-guided tour of MATLAB for engineers and life scientists. It introduces the most commonly used programming techniques through biologically inspired examples. Although the text is written for undergraduates, graduate students and academics, as well as those in industry, will find value in learning MATLAB. <br><br>The book takes the emphasis off of learning syntax so that the reader can focus more on algorithmic thinking. Although it is not assumed that the reader has taken differential equations or a linear algebra class, there are short introductions to many of these concepts. Following a short history of computing, the MATLAB environment is introduced. Next, vectors and matrices are discussed, followed by matrix-vector operations. The core programming elements of MATLAB are introduced in three successive chapters on scripts, loops, and conditional logic. The last three chapters outline how to manage the input and output of data, create professional quality graphics and find and use MATLAB toolboxes. Throughout, biomedical and life science examples are used to illustrate MATLAB's capabilities.
 
-* (3) CS 425 Senior Project: Software Design
+### Year 4 (Fall Semester)
+
+* (3) CS 425 Senior Project: Software Design
+     - Senior Project: Software Design <br>First part of a two-semester sequence in which teams complete the design and planning stages of a software development project. Selected topics in software development, group dynamics, and project management. Not for Graduate credit.
+ 
 * (3) CS Elective I
 * (3) CS Elective II
 * (3) CS Elective III
 * (3) Breadth Social Science (BSS)
 
-15 – Total Credits
+> 15 – Total Credits
 
 ### Year 4 (Spring Semester)
 
-* (3) CS 499-Senior Project: Software Implementation
+* (3) CS 499-Senior Project: Software Implementation
+    - Senior Project: Software Implementation <br>Second part of a two-semester sequence in which teams implement, test, and deploy software development project that was planned and designed in CS 425. Includes a formal presentation to the computer science faculty.
+
 * (3) CS Elective IV
 * (3) CS Elective V
 * (1) Health Experience (EH)
 * (4) Rizal IV, VI
 * (3) U.S. Race, Gender, and Equity (ERGU) or Global Cultures, Race, and Equity Education (EREG)*
 
-17 - Total Credits
+> 17 - Total Credits
 
 #### Textbooks:
-- José Rizal: Life, Works, and Writings of a Genius, Writer, Scientist, and National Hero [Second Edition]
+- José Rizal: Life, Works, and Writings of a Genius, Writer, Scientist, and National Hero [Second Edition]
 
-* If a course satisfies both the EREG and ERGU requirements, students will be given credit for one of the attributes and need to take a course that fulfills the other attribute.
+> If a course satisfies both the EREG and ERGU requirements, students will be given credit for one of the attributes and need to take a course that fulfills the other attribute.
 
-Total Hours 120
+>Total Hours 120
 
 </details>
+
 
 
 # Bayanihan Foundation ℠
