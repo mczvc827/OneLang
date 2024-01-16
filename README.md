@@ -34,7 +34,7 @@ to a nearest or inside `His House` and `Church` for a `Worship Services`, becaus
 [[Matthew 6:33](https://www.biblegateway.com/verse/en/Matthew%206:33)] [[Matthew 6](https://www.biblegateway.com/passage/?search=Matthew%206&version=NIV)]<br>
 Through *it*, We will be saved, come the day of `Judgement`. [[1 Corinthians 4:5](https://www.biblegateway.com/verse/en/1%20Corinthians%204:5)]
 
-[![img.png](INC_COC_Worship.png)](https://iglesianicristo.net/worship/)
+[![Worship](INC_COC_Worship.png)](https://iglesianicristo.net/worship/)
 
 
 - **(Genesis 12:[1-2])**
