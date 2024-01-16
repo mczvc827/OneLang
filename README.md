@@ -348,10 +348,10 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 ### Year 2 (Fall Semester)
 
-- <details><summary>(3) CS 234 Database and Web System Development</summary>
+<details><summary> (3) CS 234 Database and Web System Development</summary>
 
     Database and Web System Development
-    
+
     An introduction to multi-tier software systems and database programming and their application to web-based information storage and retrieval systems.
 </details>
 
@@ -380,7 +380,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 ### Year 2 (Spring Semester)
 
-- <details><summary>(3) CS 286 Intro to Computer Organization & Architecture</summary>
+<details><summary>(3) CS 286 Intro to Computer Organization & Architecture</summary>
  
     Introduction to Computer Organization and Architecture
     
@@ -389,7 +389,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 - (3) MATH Elective
 
-- <details><summary>(3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)</summary>
+<details><summary>(3-4) STAT 244 or STAT 380 Research Methods, Statistics, and Applications (IBM)</summary>
 
     Statistics 
     
@@ -438,21 +438,21 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 
 ### Year 3 (Spring Semester)
 
-- <details><summary>(3) CS 325 Software Engineering</summary>
+<details><summary>(3) CS 325 Software Engineering</summary>
     
     Software Engineering
     
     Introduction to the concepts and techniques required to develop complex software systems and manage software projects. Emphasis on object-oriented methodologies and modeling via UML.
 </details>
 
-- <details><summary>(3) CS 447 Networks and Data Communications</summary>
+<details><summary>(3) CS 447 Networks and Data Communications</summary>
     
     Networks and Data Communications
     
     Concepts of networks and data communications. Networking protocols and architecture; data encoding and transmission; network management; and distributed applications.
 </details>
 
-- <details><summary>(3) CS 330 Programming Languages</summary>
+<details><summary>(3) CS 330 Programming Languages</summary>
     
     Programming Languages
     
