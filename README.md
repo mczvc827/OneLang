@@ -354,7 +354,7 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
     
     An introduction to multi-tier software systems and database programming and their application to web-based information storage and retrieval systems.
 </details>
- 
+
 - (3-4) MATH elective
 
 > 6-7 – Total Credits
