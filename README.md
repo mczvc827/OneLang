@@ -631,7 +631,7 @@ Aside from revolutionizing the `HR` workforce, picked the best Economical System
 we had made models for: `business' (consumers, producers)`, financing, managing 
 (the people — inside/internal and outside/external, the employment agencies, and the intermediaries — and the project), 
 built the new but effective processes, of old but still gold, which are all maximized to its full usefulness for improve 
-and/or to increase productivity—by `System of Performance`℠, a dual gold efficiency, 
+and/or to increase productivity—by `System of Performance ℠`, a dual gold efficiency, 
 (compare with the old style of _double-time efficiency_; I am here to emphasize the **value** + **effectiveness** of a work in a project); 
 and by crafting every single needed tools — for every aspect of business — by the **Excellent Engineers** and 
 **Prime Architects** — providing the solutions to every modelling problem of its users, 
