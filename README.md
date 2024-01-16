@@ -24,7 +24,9 @@
 
 # Trademarks Registered
 
-# we are all members of the `Church Of Christ` or `Iglesia Ni Cristo`
+# we are all members of the [![Static Badge](https://img.shields.io/badge/Iglesia-Ni-white?style=flat-square&logo=%F0%9F%95%8E&logoColor=green&label=%F0%9F%95%8E%20Iglesia&labelColor=green&color=white)](https://iglesianicristo.net)[![Static Badge](https://img.shields.io/badge/Church_Of_Christ-red?style=flat-square&logo=%F0%9F%87%AE%F0%9F%87%B9&logoColor=red&label=Cristo%20%F0%9F%87%AE%F0%9F%87%B9&labelColor=red&color=white)](https://incgiving.org)
+[![Static Badge](https://img.shields.io/badge/God's_Message-blue?style=plastic&logo=ph&logoColor=blue&label=%F0%9F%95%8E&labelColor=blue&color=white)](https://www.pasugo.com.ph)
+
 ## Changing lives through `God`’s Words.
 ### We are encouraging you:
 to a nearest or inside `His House` and `Church` for a `Worship Services`, because this is the **Truth**, **The Kingdom** we seek, and the **Greatest Membership** you will ever receive. Through *it* We will be saved, come the day of `Judgement`.
@@ -124,8 +126,10 @@ The Society works in co-operation and consultation with national, provincial, re
 # Subsidiaries under Egg Co.
 ## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
-### - [CV]
+### - [CV] [:docx](./mczvc/CV%20(1-10-2024_1245).docx) [:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf)
 ### - [Resume]
+<img src='./mczvc/Screenshot_20240110-123236.png' width='720px'/>
+
 ### HQs: 4-CAs
 - 2 in the `Philippines`,
 - 1 in `Central America`, and
@@ -513,10 +517,10 @@ Members, with a MSc. Degree, should pursue their Doctorate. They are, at this ti
 ![image](https://github.com/mczvc-biomew/OneLang/assets/98096247/c05331f1-3580-46b2-9801-9bf781423f36)
 
 # Bayanihan Learning and College
-- ₱1 forever tuition! No hidden charge(s). Transparent and flat rate for all `Filipino`(s). A two-semester college education.
+- ![Forever Tuition](https://img.shields.io/badge/₱-1-red.svg) forever tuition! No hidden charge(s). Transparent and flat rate for all `Filipino`(s). A two-semester college education.
 - ☪️ Shari’ah-Compliant
 - Decentralized Learning
-- All alums (alumnus and alumnae) will be called **United Alumnus Royals**, all are Dear to Everyone!
+- All alums (alumnus and alumnae) will be called ![United Alumnus Royals](https://img.shields.io/badge/United-Alumnus_Royals-blue.svg), all are Dear to Everyone!
 - A much higher body of commission on education will be needed in the future to guarantee and protect academic freedom for continuing intellectual growth, advancement of learning and research, development for responsible and effective leadership, education of high level professionals, and enrichment of historical and cultural heritages. This is not to disrupt every (body or) commission that regulates the higher education, but to honor and preserve the dignity of every professional educators, through different and separate model of recompensation, a system that is guaranteed to liberate everyone in a balanced and stable ecosystem of education financing through the continuous effort and evaluation of every members of the committee. Learning will never be fun! nor continuous; Nor prosperous! Are you dreaming of all of these three, abudantly? `Remember`: *Everything* is **possible** with the **Almighty**! And all of Good things comes from **God**! Abudantly. **Always** and **Forever**.
 - We value these 6-major-character competencies to everyone: effort, value, skills, knowledge, wisdom, and abilities.
 
@@ -540,7 +544,8 @@ she will bestow a beautiful crown on you.”
 ```
 
 Branch name: Network Careers — A value-based work, network and platform for careers [nc]
-# Network.Careers
+# Network.Careers ![Network Careers](https://img.shields.io/badge/Network-Careers-blue?style=flat-square&logoColor=blue&label=Network&labelColor=blue&color=white)
+
 A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by hourly rate) of a worker or employee, that still occupies _their_ time and obligates to work only on one job or project at a time; by (or with) a motto: 
 [**A**]lways [**S**]uceeding ™ — with this, we are **empowering** the _freelancing mindset_ before it was revolutionized.
 With our Instute and partners, you do now have the power of the **True Royal Degree** to communicate and network with the `Royal Professionals` — to work endlessly, thus earning endlessly — or one Work or One Project at a time, thus saving effort and *probably* time, preserving and upskilling your **value** — your **skills**, but now equipped with your acquired values + your *honed* **God-Given Gift** from the **Almighty One**!
