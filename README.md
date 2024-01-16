@@ -557,13 +557,13 @@ she will bestow a beautiful crown on you.”
 Branch name: Network Careers — A value-based work, network and platform for careers [**nc**]
 # Network.Careers ![Network Careers](https://img.shields.io/badge/Network-Careers-blue?style=flat-square&logoColor=blue&label=Network&labelColor=blue&color=white)
 
-A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs, which rates work by time-based rate (usually by an hourly rate) of a worker or employee that still occupies _their_ time, and obligates them to work only on an old way of time-based kind of modelled work, 
-which rates them poorly to do one job or project, one task at a time, locking them to a poor-waged situations of tedious and mundane life; those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
+A **nice, network platform** of careers for value-based work, or job postings that will revolutionize the traditional jobs—which rates work by time-based rate (usually by an hourly rate) of a worker or employee—everytime, and to still date—occupies _their_ **precious time**, and obligates them to *work only* by an old way of time-based model—kind of work, 
+which rates them poorly to do one job or project, one task at a time—locking them to a poor-waged situations of tedious and mundane life—those kind of model of work is not only outdated, but also blocking them to the **new kind of model of work**, thus earning *debt* and *frustrations* to the **inner peace** of truly liberating work; 
 thus, with, by, (or with) the motto: 
 > AS ALWAYS: [**A**]lways [**S**]uceeding`™, instead, 
 - we are proving you your **true values** you have had *before*; 
 - **be ready to engage**, as we will **showcase you to the whole world**—
-  - of  fun, memorable, and exciting kind of interaction anc collaboration
+  - of  fun, memorable, and exciting kind of interaction and collaboration
     - (notice that we are already emphasizing you to the **successful** and **always working system** of *work*, because it shouldn't be called *work* by now—**then and now**);
     - thus, becoming and valuing: 
   - yes! your **happiness**—*you truly seek*, and your **succeeding values**—
@@ -589,36 +589,40 @@ To every one of Us, we are all **truly essential** to the **Almighty One**.
 
 And so, we had also found our **true purpose**, to *serve and protect* the `values` **of every one of us**!
 
-Techs, (or *technological*[**s**]): as they may say it; we are improving our kind, way of life, not just the system of industrialization!
+- Techs, (or *technological*[**s**]): as they may say it; we are improving our kind, way of life, not just the system of industrialization!
 We are about to revolutionize the word `revolutionary`, and all the aspect of workings, your specialized needs, and your social life, ahead!
 Before it was revolutionized!
 
-Socials, (or *Socialites*): however they may say it! we are also have a social standing to the Society, on the wave of *Technological Facts* and its **Mediums**, a popular culture: by **empowerment**; 
+- Socials, (or *Socialites*): however they may say it! we are also have a social standing to the Society, on the wave of *Technological Facts* and its **Mediums**, a popular culture: by **empowerment**; 
 or by *humiliation*, because of mediocrity or *whatever* the reason(s): a *branded humans* or *mortified soul* as it is, because of these Social Contracts and stagnant Social Standings: 
 still humiliating Us as it is to not have *these kinds* a social life!
-https://www.psychologytoday.com/us/blog/hide-and-seek/201408/the-psychology-humiliation
+  - https://www.psychologytoday.com/us/blog/hide-and-seek/201408/the-psychology-humiliation
+
+###  Introducing `Network.Careers`
 
 `We are now here to empower you`! — You `matter`ed, *anyways*.
 
 With our Institute and partners, you do now have the power of the **True Royal Degree** to **communicate** and **network** 
 with the `Royal Professionals`—to work professionally or *endlessly*, thus **earning also endlessly** with (`someone you can trust`), or by a `Smart Move`™; 
 **do it** and **earn it** your—kind of Profession(s)
-- by doing One Work or One Project at a time, 
-- thus **saving you your effort** and *probably* your time, preserving and upskilling your **value**—your **skills**, 
-with the **redefined work contract(s)**: 
-  - you are now, but—**now equipped** with your acquired values + (plus) your *honed* **God-Given Gift** from the **Almighty One**!
+- by doing One Work or One Project at a time, but now—emphasize your `value-based rate` **and** `work with passion`!
+- thus **saving you your effort** and *probably* **your time**, **your value**, 
+  - preserving and upskilling your **value**—your **skills**, with Our **redefined work contract(s)**:
+    - a `Smart Settings`℠ for **work**, **business**, **education**—you name it! 
+    - you are now, *but* notice how it will change your life—living the life you want!
+    - **now equipped** with your acquired values + (plus) your *honed* **God-Given Gift** from the **Almighty One**!
 
-With Us, you are *not only* **working Smart**, but engaging **Smartly**℠, also, with our revolutionized, **Smart Contract for the People**™—naturally, it's **By Design**™.  
+**With Us**, you are *not only* **working Smart**, but engaging **Smartly**℠, also, with our revolutionized, **Smart Contract for the People**™—naturally, it's **By Design**™.  
 
 It's time to **learn, apply, and lead** *courageously* and *victoriously*, or **work collaboratively**, 
-- with Us—because We had predefined our **Every Smart Environment**℠, 
-- and with You—with an **honor of excellency** on `every aspect of your career!`
+- **with Us**—because We had predefined our **Every Smart Environment**℠, 
+- and **with You**—with an **honor of excellency** on `every aspect of your career!`
 
-We had also revolutionized the **Management Aspect** of *Every Known Career*(s), not just for managing, but it's for the **growth and development** of _**every** team_ and its **members**.
-You can now work **freely**, with your predefined **dignity** and **honor**, to showcase your **new values**, **comfortably** and *with easiness*!
+We had *also* **revolutionized** the **Management Aspect** of *Every Known Career*(s), not just for managing, but it's for the **growth and development** of _**every** team_ and its **members**.
+*You can now work* **freely**, with your predefined **dignity** and **honor**, to showcase your **new values**, **comfortably** and *with easiness*!
 Now, that's an **integrity**.
 
-By now, you have expanded your horizon, *horizontally and vertically*, with **your natural talents**, or, by practicing and exercising it,
+*By now*, you have **already expanded** your horizon, *horizontally and vertically*, with **your natural talents**, or, by practicing and exercising it,
 **you are now prepared** for every **best opportunities** we had **prepared for you**;
 you: to **Do It**, and We: **to provide** it, because with us—you are **simply the best**.
 
@@ -629,12 +633,13 @@ because we had an **Awesome God**—you can **rely on**, which was the **Almight
 
 **We are all created equal**, but *revolutionaries*! 🇵🇭🕍🕎🇮🇹
 
-It's not only easy to do things you love and wants,
-but also—it was becoming true and possible!
-Never waver your dreams, not anymore—`never ever give up on your dreams`!
-> Do it *now* with passion, providing your needs:
+It's *not only easy* to do **things you love** and *wants*,
+but also—`it was becoming true and possible`!
+Never waver your **dream**s **again**, not anymore—`never ever give up on your dreams`!
+> Do it *now* with passion, providing *you* **your needs**:
 for **your family and friends**!
-> *Don't* forget that:
+> Simply, *Don't* forget this:
+> 
 > ✡️ We are **simply the best**.
 
 ## All for the glory of `Almighty God`.
