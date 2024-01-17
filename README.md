@@ -692,7 +692,10 @@ and is only reserved, for now, for the following:
 ## Bayanihan Open-Source Software, Patented Open-Source(d) Software, Patented Medical Devices and/or Equipments, Dual Patent and Licensing, Business or Medical Technologies
 
 - All are under **Vanguard Licensing** ℠
-- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using `Eclipse license` format, for you to entwine in the same, or minimally different, patent. Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, technicians, or apprentice with your biomedical equipment. **Vanguard Biomedical Equipments** is just for that.
+- *Patented Open-Source Software* is a hybrid of patenting and limited liable distribution license using `Eclipse license` format, for you to entwine in the same, or minimally different, patent. 
+  - > Be sure that you understand the condition(s) when your equipment will be operated by the technicians, for training them, or for maintaining them. 
+    - OSS is a good practice for that, if you are to minimize the cost of training, hiring trainers, engineers, maintainers, technicians, or apprentice with your biomedical equipment. 
+      - **Vanguard Biomedical Equipments** is just for that.
 - Licensing and Copyright preservation uses **Standard Software Licensing** for granting permission, under your preferred license provider, in public or private manner, to distribute the source and/or software(s).
 - Patenting is encouraged to do *under* [Goldstein Patent Law], which states:
 
