@@ -23,6 +23,7 @@
 [Licensee](./LICENSE)
 
 # Trademarks Registered
+![GG Feather](./GoldenGooseFeather.png)
 
 # we are all members of the [![Static Badge](https://img.shields.io/badge/Iglesia-Ni-white?style=flat-square&logo=%F0%9F%95%8E&logoColor=green&label=%F0%9F%95%8E%20Iglesia&labelColor=green&color=white)](https://iglesianicristo.net)[![Static Badge](https://img.shields.io/badge/Church_Of_Christ-red?style=flat-square&logo=%F0%9F%87%AE%F0%9F%87%B9&logoColor=red&label=Cristo%20%F0%9F%87%AE%F0%9F%87%B9&labelColor=red&color=white)](https://incgiving.org)
 [![Static Badge](https://img.shields.io/badge/God's_Message-blue?style=plastic&logo=ph&logoColor=blue&label=%F0%9F%95%8E&labelColor=blue&color=white)](https://www.pasugo.com.ph)
