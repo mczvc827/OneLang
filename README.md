@@ -11,8 +11,7 @@
 - [Bayanihan Learning](#bayanihan-learning-and-college) — One Language, One Learning, *at a time*.
 
 ## Partners in Business
-### `Ryan` and `Gem Noces`
-* `Vergie’s Restaurant`
+### `Jobert.RJ` `Globert` and `Gemm Corrales`
 * `DAD’s Gym`
 * ...
 
