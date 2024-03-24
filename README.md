@@ -6,6 +6,7 @@
 ![Egg Co.](./1m8kd07.jpg)
 ### Company Websites
 > `Canada.us` `Dads.net` `Bayanihan.Learning` `Network.Careers` `Egg.co`
+![Laurel Leaves](./laurel-leaves_820x644.png)
 
 ### `mczvc`: `[Meldencio Czarlemagne Corrales]` [`Egg Co.`]
 - [Bayanihan Learning](#bayanihan-learning-and-college) — One Language, One Learning, *at a time*.
